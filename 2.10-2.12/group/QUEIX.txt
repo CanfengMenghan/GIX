@@ -1,0 +1,4328 @@
+﻿==================================
+
+脚本 QUEIX
+
+
+
+Correlation ID = a0fc835a-d525-4304-134a-28c6f5f49be5
+
+
+
+日期
+
+Wed Feb 13 2019 10:35:00 GMT+0800 (中国标准时间)
+
+
+
+==================================
+
+对话 QUEIX
+
+
+
+Will @ 10:35:03
+
+Translation (简体中文): 然后显示你们中的一些人加入了, 所以你也可以看到两种语言的转录。所以你可以选择用我说的英语和普通话来看。
+
+Recognition (英语): (In then and then showing that some of you are joining, so you can see the transcriptions in both languages too. So you have the option of seeing it in English which I'm speaking and in Mandarin.)
+
+
+
+Will @ 10:35:07
+
+Translation (简体中文): 如果你走到顶端, 有一个设置, 你可以改变它。因此, 您可以同时看到这两种语言。
+
+Recognition (英语): (If you go up to the top, there's a setting where you can change it. So you can see both languages at the same time.)
+
+
+
+Will @ 10:35:15
+
+Translation (简体中文): 现在你们中的一些人来自中国的不同地区, 我想给大家看一种不同的语言。
+
+Recognition (英语): (Now some of you are from different parts of China, and I want to show you a different language.)
+
+
+
+Will @ 10:35:18
+
+Translation (简体中文): 所以, 让我们把这个拉过来。
+
+Recognition (英语): (So let's pull this over.)
+
+
+
+Will @ 10:35:25
+
+Translation (简体中文): 所以这是在一个略有不同的语言。
+
+Recognition (英语): (And so this is in a slightly different language.)
+
+
+
+Will @ 10:35:34
+
+Translation (简体中文): 太抱歉了, 我不知道该告诉我那是普通话, 另一个是广东话对不起。这是普通话, 那是广东话。
+
+Recognition (英语): (So sorry. That's Mandarin the other one was cantonese sorry. This is Mandarin and that's a Cantonese.)
+
+
+
+Will @ 10:35:35
+
+Translation (简体中文): 是的。
+
+Recognition (英语): (Yeah.)
+
+
+
+Will @ 10:35:39
+
+Translation (简体中文): 好吧。你们中的一些人从一个不。
+
+Recognition (英语): (All right. Some of you from one don't.)
+
+
+
+Will @ 10:35:50
+
+Translation (简体中文): 你可以读粤语坐在香港风格的剧本里, 你可以读这个。
+
+Recognition (英语): (You can you read the Cantonese sits in Hong Kong style script, you can read this.)
+
+
+
+Will @ 10:35:53
+
+Translation (简体中文): 我必须不断地逆转
+
+Recognition (英语): (What I gotta keep reversing.)
+
+
+
+Will @ 10:35:58
+
+Translation (简体中文): 谢谢你让我保持诚实。
+
+Recognition (英语): (Thank you keeping me honest.)
+
+
+
+Will @ 10:36:01
+
+Translation (简体中文): 现在, 如果找不到我的光标。
+
+Recognition (英语): (Now, if it can't find my cursor.)
+
+
+
+Will @ 10:36:10
+
+Translation (简体中文): 好。无论如何, 你可以在你当地的屏幕上看到它。你也可以让我一秒钟是我的光标。
+
+Recognition (英语): (Okay. Anyway, you can see it on your local screen. You can also let me a second is my cursor.)
+
+
+
+Will @ 10:36:12
+
+Translation (简体中文): 我们是的。
+
+Recognition (英语): (We are.)
+
+
+
+Will @ 10:36:13
+
+Translation (简体中文): 每年都是
+
+Recognition (英语): (Every year.)
+
+
+
+Will @ 10:36:16
+
+Translation (简体中文): 这样我就可以上去了
+
+Recognition (英语): (So I can go up here.)
+
+
+
+Will @ 10:36:20
+
+Translation (简体中文): 我不想离开的地方。
+
+Recognition (英语): (I don't want to exit where's.)
+
+
+
+Will @ 10:36:47
+
+Translation (简体中文): 好。我本来想打开音频的, 但我似乎找不到, 好吗。
+
+Recognition (英语): (Okay. I was going to try to turn on the audio but I can't seem to find it, okay.)
+
+
+
+Will @ 10:36:48
+
+Translation (简体中文): 事情开始了
+
+Recognition (英语): (Thing on.)
+
+
+
+Will @ 10:36:51
+
+Translation (简体中文): 我要把这个拉回来。
+
+Recognition (英语): (I'm going to pull this back.)
+
+
+
+Will @ 10:36:55
+
+Translation (简体中文): 这也是, 很难。当它在你身后的时候, 很难做到这一点。
+
+Recognition (英语): (This is too, hard. It's hard to do this when it's behind you.)
+
+
+
+Will @ 10:37:10
+
+Translation (简体中文): 好。我们在那里, 我可以看到它, 现在我不能在那个屏幕上看到它。好。我要去做一些事情。
+
+Recognition (英语): (Okay. There we are I can see it, now I couldn't see it on that screen. Okay. I'm going to turn on to do something.)
+
+
+
+Will @ 10:37:11
+
+Translation (简体中文): 在这里, 这有点酷。
+
+Recognition (英语): (Here, this is kind of cool.)
+
+
+
+Will @ 10:37:20
+
+Translation (简体中文): 所以我不仅能看到它。我也能听到。所以, 如果我打开这个, 请不要在你的电脑上这样做。
+
+Recognition (英语): (So not only can I see it. I could also hear it. So if I turn this on please don't do this on your computers.)
+
+
+
+Will @ 10:37:39
+
+Translation (简体中文): 谢谢。好。所以这很清楚, 但你能听到, 然后我也可以做普通话。所以。
+
+Recognition (英语): (Thanks. Okay. So that's a Cantonese clearly but you can hear and then I could do Mandarin also. So.)
+
+
+
+Will @ 10:37:46
+
+Translation (简体中文): 我们用这个来做的一件事就是那些根本不会说英语的人。他们可以戴上耳机, 然后就可以听了。
+
+Recognition (英语): (One of the things we've used this for is people who don't speak English at all. They can put a headset on and then they can listen.)
+
+
+
+Will @ 10:37:50
+
+Translation (简体中文): 这样我就可以用英语说话, 然后他们就能用普通话或任何能听到的语言听到。
+
+Recognition (英语): (So I can talk in English and then they can hear it in Mandarin or whatever language they can hear it.)
+
+
+
+Will @ 10:37:56
+
+Translation (简体中文): 我想大约有25种不同的语言, 你可以听, 还有60多种语言。你可以看到成绩单。
+
+Recognition (英语): (I think about 25 different languages you can listen and over 60 languages. You can see the transcripts.)
+
+
+
+Will @ 10:38:01
+
+Translation (简体中文): 好。那么, 让我继续我的谈话, 但欢迎你加入这个行列。当然是你自己的。
+
+Recognition (英语): (Okay. So let me continue with my talk then but you're welcome to join this. Of course from your own.)
+
+
+
+Will @ 10:38:09
+
+Translation (简体中文): 设备, 你可以看到的成绩单的整个时间, 你甚至可以保存的成绩单。这样你就能让我保持诚实了
+
+Recognition (英语): (Device and you can see the transcripts for the entire time you can even save the transcripts. So you can keep me honest.)
+
+
+
+Will @ 10:38:17
+
+Translation (简体中文): 如果我说了什么, 他说了, 好吧, 你其实说你可以指着成绩单, 让我保持诚实。
+
+Recognition (英语): (If I say something he said, well, you actually said you can point to the transcript and keep me honest.)
+
+
+
+Will @ 10:38:27
+
+Translation (简体中文): 所以这就是你如何加入你们中的一些人已经这样做了, 我也是顺便去看我当地电话上两次的文字记录。
+
+Recognition (英语): (So this is how you join some of the most of you have already done this also I'm by the way I am seeing the transcripts on my local phone two times.)
+
+
+
+Will @ 10:38:32
+
+Translation (简体中文): 用德语也在我的手机上。既然我在展示这个。让我给你看一个。
+
+Recognition (英语): (In German on my phone as well. Let's since I'm kind of showing this. Let me just show you one.)
+
+
+
+Will @ 10:38:40
+
+Translation (简体中文): 这件事有点好玩的一点, 我要做的就是到这里来。
+
+Recognition (英语): (Little thing that's kind of fun about this what I'm going to do is come over here.)
+
+
+
+Will @ 10:38:41
+
+Translation (简体中文): 和。
+
+Recognition (英语): (And.)
+
+
+
+Will @ 10:38:46
+
+Translation (简体中文): 我将暂时撤销观众, 稍后再回到这个模式。
+
+Recognition (英语): (I'm going to undo the audience just temporarily I'll come back to this mode later.)
+
+
+
+张广欣 @ 10:38:49
+
+Recognition (简体中文): 卖小.
+
+
+
+张广欣 @ 10:38:54
+
+Recognition (简体中文): 全部你什么时候回来是一个speakerphone,怎么说呢? 也不.
+
+
+
+Thirra @ 10:38:56
+
+Recognition (简体中文): .
+
+
+
+张广欣 @ 10:38:56
+
+Recognition (简体中文): 沈敖.
+
+
+
+LIHAOJIN @ 10:39:00
+
+Recognition (简体中文): 微软万岁！
+
+
+
+Thirra @ 10:39:07
+
+Recognition (简体中文): ihjasdfgaif
+
+
+
+LIHAOJIN @ 10:39:09
+
+Recognition (简体中文): 微软万岁
+
+
+
+Mack Wang @ 10:39:14
+
+Translation (简体中文): 我会这么说的。
+
+Recognition (英语): (I'll say that.)
+
+
+
+Will-phone @ 10:39:14
+
+Translation (简体中文): 说是的。我可以在这里用德语说一点。
+
+Recognition (德语): (Soll. Ich kann hier ein bisschen auf Deutsch sprechen.)
+
+
+
+ZZR @ 10:39:16
+
+Recognition (简体中文): 喵喵喵
+
+
+
+Andy @ 10:39:18
+
+Recognition (简体中文): 呵呵
+
+
+
+Will-phone @ 10:39:19
+
+Translation (简体中文): 你能理解我吗？
+
+Recognition (德语): (Können Sie mich verstehen?)
+
+
+
+LIHAOJIN @ 10:39:21
+
+Recognition (简体中文): 微软爸爸
+
+
+
+ALICE @ 10:39:28
+
+Recognition (简体中文): 这是我见过的最好的演讲
+
+
+
+G @ 10:39:30
+
+Recognition (简体中文): REOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOREOR EOREOREOREOREOREOREOREO
+
+
+
+Will @ 10:39:47
+
+Translation (简体中文): 我将做的是当我们稍后有问题答案会话。我会再次打开麦克风, 你可以问。
+
+Recognition (英语): (What I'll do is when we have question answer session later. I'll open the mic up again, and you can ask.)
+
+
+
+Will @ 10:39:53
+
+Translation (简体中文): 三或手机, 请只是问问题不要做傻事。
+
+Recognition (英语): (Three or phones please just ask questions don't do silly things.)
+
+
+
+Will @ 10:40:09
+
+Translation (简体中文): 好。所以我们的微软翻译实际上是在很多这样的上下文中使用的, 我得到每当我给讲座我出去做讲座, 它是非常像这样, 你可以看到的例子。这。
+
+Recognition (英语): (Okay. So we've the Microsoft translator is actually been used in a lot of context like this, I get whenever I give lectures I go out and give lectures and it's very much like this and you can see examples of. This.)
+
+
+
+Will @ 10:40:15
+
+Translation (简体中文): 从学校来的因此, 全国各地都有学校在高中使用, 也在大学一级使用。
+
+Recognition (英语): (From school. So there's schools across the country that are using this both in high schools, but also at the university level.)
+
+
+
+Will @ 10:40:22
+
+Translation (简体中文): 所以你会在这些图片中看到一堆不同的图片, 从人们在教室里使用这种技术的实际教室。
+
+Recognition (英语): (And so you see a bunch of different pictures in these from actual classrooms where people are using this technology in the classroom.)
+
+
+
+Will @ 10:40:31
+
+Translation (简体中文): 它不仅被用于多种语言。所以也许你有会说普通话的学生和会说英语的教授。
+
+Recognition (英语): (It's being used not just for multiple languages. So maybe you have students who speak Mandarin and the professor speaking in English.)
+
+
+
+Will @ 10:40:36
+
+Translation (简体中文): 这就是我们在这里的情况, 但它也被用于聋哑人的背景下。
+
+Recognition (英语): (That the scenario we have here, but it's also used in the context of people who are deaf.)
+
+
+
+Will @ 10:40:41
+
+Translation (简体中文): 或者听力不好, 我会解释其中的一些存在。因此, 这里有一些例子。
+
+Recognition (英语): (Or hard of hearing and I'll explain some of these is there. So there are some examples of that here where.)
+
+
+
+Will @ 10:40:48
+
+Translation (简体中文): 学生们其实是聋子, 他们正在拿到正在说什么的成绩单, 所以他们知道在说什么。
+
+Recognition (英语): (The students are actually deaf who are getting transcripts of what's being said, so they know what's being said.)
+
+
+
+Will @ 10:40:56
+
+Translation (简体中文): 所以, 让我们来谈谈语音翻译。因此, 这方面的基础基本上是涉及多种技术。
+
+Recognition (英语): (So let's talk a little bit about speech translation. So the underpinnings of this is basically multiple technologies are involved.)
+
+
+
+Will @ 10:41:04
+
+Translation (简体中文): 微软在机器翻译方面的工作已经很长时间了。这其实是最早在这个领域工作的公司之一。
+
+Recognition (英语): (Microsoft is been working on machine translation for very long time. It's actually one of the first companies to work in this space.)
+
+
+
+Will @ 10:41:14
+
+Translation (简体中文): 我们于1991年开始从事自然语言处理工作, 这是微软1995年在该公司进行机器翻译的第一个研究项目。
+
+Recognition (英语): (We started working on natural language processing in 1991 the first research projects in machine translation at microsoft where in 1995.)
+
+
+
+Will @ 10:41:22
+
+Translation (简体中文): 这里没有显示, 但后来我们开始为自己的产品进行机器翻译。所以翻译。
+
+Recognition (英语): (It's not shown here, but then we started working on machine translation for our own product. So translating.)
+
+
+
+Will @ 10:41:31
+
+Translation (简体中文): 知识库和文档之类的东西, 供我们自己的内部使用, 然后从2007年开始。
+
+Recognition (英语): (Knowledge bases and documents and stuff like that for our own internal use and then starting in 2007.)
+
+
+
+Will @ 10:41:40
+
+Translation (简体中文): 我们实际上是作为公共产品发布的。所以这只是文本翻译。这样我就可以用普通话打一些东西了。让我们说或者用中文说吧。
+
+Recognition (英语): (We actually released it as a public product. So that was just text translation. So I could type something in Mandarin. Let's say or in Chinese.)
+
+
+
+Will @ 10:41:47
+
+Translation (简体中文): 并有它翻译或有一些德语和翻译成俄语, 他会做文字翻译, 但随着时间的推移, 我们开始。
+
+Recognition (英语): (And have it translate or have something in German and translate to Russian he would do text translation but over time we started.)
+
+
+
+Will @ 10:41:57
+
+Translation (简体中文): 做语音翻译。因此, 您所看到的是语音识别和机器翻译技术组合的最终结果。
+
+Recognition (英语): (Doing speech translation. So what you're seeing is the end result of both speech recognition and machine translation a combination of technologies.)
+
+
+
+Will @ 10:42:02
+
+Translation (简体中文): 而人们在这项技术上工作了很长时间, 但很长时间都不是很好。
+
+Recognition (英语): (And people have worked on this technology for a long time, but it wasn't very good for very long time.)
+
+
+
+Will @ 10:42:04
+
+Translation (简体中文): 只是。
+
+Recognition (英语): (Just.)
+
+
+
+Will @ 10:42:08
+
+Translation (简体中文): 在过去几年里, 它变得可行。
+
+Recognition (英语): (In the past few years it became viable.)
+
+
+
+Will @ 10:42:14
+
+Translation (简体中文): 所以我们有一大堆因素的结合。我不会在这里走过这一切。
+
+Recognition (英语): (And so we have kind of a combination of a whole bunch of factors. I'm not going to walk through all of this here.)
+
+
+
+Will @ 10:42:22
+
+Translation (简体中文): 顺便说一下, 我将和这里的人分享甲板。所以, 如果你想访问这个甲板上的内容, 那里有引用。所以有论文说我指的是第二。
+
+Recognition (英语): (By the way, I'll share the deck with the people here. So if you want access to the content in this deck, there's references there. So there papers that I point two.)
+
+
+
+Will @ 10:42:27
+
+Translation (简体中文): 在这里, 你可以回去阅读这些文件, 如果你想要一些非常技术性的, 但你们。
+
+Recognition (英语): (Here you can go back and read these papers if you want some very technical but you guys.)
+
+
+
+Will @ 10:42:36
+
+Translation (简体中文): 技术上, 我想你可以读懂其中的一些, 在这一点上, 有一种因素交织在一起, 使这成为可能。
+
+Recognition (英语): (Technical, I think you can read some of these and there's kind of a confluence of factors that have made this possible at this point.)
+
+
+
+Will @ 10:42:42
+
+Translation (简体中文): 语音识别方面的第一大改进。在过去的十年里, 这种情况又发生了。
+
+Recognition (英语): (Number one big improvements in speech recognition. That's happened in the past decade more in the past couple of years.)
+
+
+
+Will @ 10:42:49
+
+Translation (简体中文): 你可以看到相当不错的结果。这是一台正在抄录我的机器。这不是根据我的声音定制的。
+
+Recognition (英语): (And you can see the results pretty good. This is a machine that's transcribing me. This is not customized to my voice.)
+
+
+
+Will @ 10:42:58
+
+Translation (简体中文): 这只是通用模型。这被用来抄写我, 真的相当不错。它的错误率在 1 0% 左右。
+
+Recognition (英语): (This is just the generic model. That's being used to transcribe me and it's really quite good. It has an error rate of around 10 percent.)
+
+
+
+Will @ 10:43:07
+
+Translation (简体中文): 这相当不错, 人类最好的表现是在这个范围内的四比6%。这是人类能做到的最好的。
+
+Recognition (英语): (That's pretty good the best human performance is four or 6 percent in that range. That's the best that human can do this.)
+
+
+
+Will @ 10:43:14
+
+Translation (简体中文): 所以我们至少在人类能力的范围内。所以我们在达到人类水平做了很多工作。
+
+Recognition (英语): (So we're within range of human competence at least best human competence. So we've done a lot of work on human parity.)
+
+
+
+Will @ 10:43:23
+
+Translation (简体中文): 这意味着我们如何实现与人们在同一任务中所做的类似的质量结果。所以你可以看到下面。
+
+Recognition (英语): (Meaning how we can achieve quality results that are similar to what people do in the same task. So you can see there under.)
+
+
+
+Will @ 10:43:33
+
+Translation (简体中文): 对。这里的这些论文来自微软研究, 在这里谈论语音识别的达到人类水平。我们也在努力。
+
+Recognition (英语): (Right. Here these papers here from Microsoft Research talk about human parity for speech recognition. We're also working on.)
+
+
+
+Will @ 10:43:38
+
+Translation (简体中文): 达到人类水平机器翻译。这些都是最近的论文。因此, 这些甚至还没有在产品中。
+
+Recognition (英语): (Human parity for machine translation. And these are very recent papers. So these are not even in product yet.)
+
+
+
+Will @ 10:43:47
+
+Translation (简体中文): 在审查翻译的人无法判断是机器还是人翻译成内容的地方。
+
+Recognition (英语): (Where people who were reviewing the translations couldn't tell whether it was a machine or a person that it translated to content.)
+
+
+
+Will @ 10:43:55
+
+Translation (简体中文): 因此, 达到这样的能力水平其实是相当了不起的。而这一切都发生在短短几年内, 为什么。
+
+Recognition (英语): (So to achieve that level of competence is actually pretty remarkable. And this is all happened within just a span of a few years why.)
+
+
+
+Will @ 10:44:04
+
+Translation (简体中文): 部分原因是有很多数据, 我们有大量的数据, 但也有底层的培训基础设施是基础技术。
+
+Recognition (英语): (Partly because there's a lot of data we have a huge amount of data, but also the underlying training infrastructure an underlying technology.)
+
+
+
+Will @ 10:44:13
+
+Translation (简体中文): 神经网络。真的有可能以这种质量做如此大规模的语音识别。还有机器翻译。
+
+Recognition (英语): (Neural networks. Really had made it possible to do speech recognition at this scale at this quality. And also machine translation.)
+
+
+
+Will @ 10:44:22
+
+Translation (简体中文): 不, 当我们第一次发布第一个产品, 这是四年前与 skype 翻译, 你可以看到一个例子, 有人在电话里说话。所以你可以。
+
+Recognition (英语): (No, when we first released the first product this was four years ago with Skype Translator and you can see an example of someone talking on the phone. So you can.)
+
+
+
+Will @ 10:44:30
+
+Translation (简体中文): 你可以使用 skype, 你可以打电话给别人在另一个地方打开翻译, 它会为你翻译, 因为你说话。
+
+Recognition (英语): (You can use skype you can call someone in another place turn on translation, and it will translate for you as you're talking.)
+
+
+
+Will @ 10:44:38
+
+Translation (简体中文): 所以, 如果我给北京的人打电话说, 我不会说普通话, 我可以和你说话吗, 我真的做到了。我给中国各地的人打了电话。
+
+Recognition (英语): (So if I call someone in Beijing and say, I don't speak any Mandarin can I talk to you and I've actually done this. I've called people in various parts of China.)
+
+
+
+Will @ 10:44:43
+
+Translation (简体中文): 在我说英语的地方, 他们说的是普通话, 我们可以互相交谈。
+
+Recognition (英语): (Where I'm speaking in English they speak in Mandarin and we can have a conversation with one another.)
+
+
+
+Will @ 10:44:52
+
+Translation (简体中文): 基础技术。都在 api 里。因此, 它由您可以通过此 api 实际开发的 api 控制。它是整数。
+
+Recognition (英语): (The underlying technology. It's all in API. So it's controlled by an API you can actually develop over this API. It's integer.)
+
+
+
+Will @ 10:45:01
+
+Translation (简体中文): 服务和所有这些都是在相同 api 上构建的不同工具, 也有第三方工具开发人员在使用此 api。
+
+Recognition (英语): (Service and all of these are different tools that are built on that same API and there are third party tools developers working on this API as well.)
+
+
+
+Will @ 10:45:13
+
+Translation (简体中文): 所以这里的想法是演讲翻译背后的想法, 你有一个说一种语言的人, 他们和别人说的是另一种语言。
+
+Recognition (英语): (So the idea here is the idea behind speech translation you have someone who speaks one language they talk to someone else's speaks a different language.)
+
+
+
+Will @ 10:45:15
+
+Translation (简体中文): 语言二种语言一。
+
+Recognition (英语): (Language two language one.)
+
+
+
+Will @ 10:45:21
+
+Translation (简体中文): 我们对着这样的麦克风说话, 在耳机下说话, 或者打电话, 或者你有什么。
+
+Recognition (英语): (We speak into a microphone like this or under headset or and or phone or what have you.)
+
+
+
+Will @ 10:45:27
+
+Translation (简体中文): 它识别讲话。所以这就是语音识别部分, 它实际上是什么转录它是时间。
+
+Recognition (英语): (It recognizes the speech. So this is the speech recognition part which actually transcribing what it is the time.)
+
+
+
+Will @ 10:45:28
+
+Translation (简体中文): 说。
+
+Recognition (英语): (Saying.)
+
+
+
+Will @ 10:45:34
+
+Translation (简体中文): 然后我们做翻译。所以我们把文字, 这是在这里生成的, 然后我们翻译。
+
+Recognition (英语): (Then we do the translation. So we take the text, that's being generated here and then we translate that.)
+
+
+
+Will @ 10:45:42
+
+Translation (简体中文): 进入其他语言, 然后我们产生音频, 如果我们想要的音频。所以这个泡沫并不是必不可少的。
+
+Recognition (英语): (Into the other language and then we produce audio if we want the audio. So this bubble isn't essential.)
+
+
+
+Will @ 10:45:48
+
+Translation (简体中文): 有这样的经历很有趣, 因为你可以用自己的语言倾听。然后我们要做相反和相反的方向。
+
+Recognition (英语): (It's fun to have that cause you can listen in your own language. And then we want to do the reverse and the other direction.)
+
+
+
+Will @ 10:45:54
+
+Translation (简体中文): 这比我想谈的是一些复杂的事情要复杂得多。
+
+Recognition (英语): (It's a lot more complicated than that I'd like to talk about a little bit about some of the complications of this.)
+
+
+
+Will @ 10:46:06
+
+Translation (简体中文): 除了把这两个组件放在一起, 还有更多的东西。你不可能只是在真正好的机器翻译中拥有真正好的语音识别, 期望能奏效, 原因是我们说话不流利。
+
+Recognition (英语): (There's more to it than just putting these two components together. You can't just have really good speech recognition in really good machine translation expected to work and the reason why is that we don't talk fluently.)
+
+
+
+Will @ 10:46:14
+
+Translation (简体中文): 每个人都说他们停顿了一下这种东西, 这不能很好地翻译。
+
+Recognition (英语): (Everyone talks they pause well this kind of stuff, and that doesn't translate well.)
+
+
+
+Will @ 10:46:24
+
+Translation (简体中文): 因此, 我们构建了一个组件, 它在不流利处理中执行所有此文本规范化, 使我们能够拥有这些文本。
+
+Recognition (英语): (So we have a component that we built that does all of this text normalization in disfluency processing to make it possible for us to have.)
+
+
+
+Will @ 10:46:33
+
+Translation (简体中文): 像这样的对话, 否则, 它不会工作在所有, 因为如果我们转录, 如果我们翻译的内容是。
+
+Recognition (英语): (Conversations like this, otherwise, it wouldn't work at all because if we transcribed the if we translate the content that is been.)
+
+
+
+Will @ 10:46:41
+
+Translation (简体中文): 从我们所有的不和谐中描述出来, 它在另一种语言中完全无法使用, 因为我们不知道这个人在说什么。
+
+Recognition (英语): (Transcribed from all of our disfluencies, it's completely unusable in the other language because we won't know what this person is saying.)
+
+
+
+Will @ 10:46:50
+
+Translation (简体中文): 因此, 我们有一个组件称为 truetext, 我们开发的, 做这种中介之间的语音识别和机器翻译。
+
+Recognition (英语): (So we have this component called truetext that we developed that does this mediation between speech recognition and machine translation.)
+
+
+
+Will @ 10:46:55
+
+Translation (简体中文): 所以这里的想法是, 人们不会像他们写的那样说话。
+
+Recognition (英语): (So the idea here is that people don't talk the way they write.)
+
+
+
+Will @ 10:47:00
+
+Translation (简体中文): 当我们建立翻译系统。我们按照人们正确的方式建造了它们。
+
+Recognition (英语): (When we built translation systems. We built them on the way people right.)
+
+
+
+Will @ 10:47:09
+
+Translation (简体中文): 我们在这些文本文档上构建机器翻译的文本文档, 人们不会以他们说话的方式进行非常不同的操作。
+
+Recognition (英语): (We take text documents we build machine translation over those text documents people don't talk that way they talk very differently.)
+
+
+
+Will @ 10:47:19
+
+Translation (简体中文): 而人们是惊人的不流利, 如果你从我的文字记录, 它不是做不流利的处理, 现在它是, 但如果你采取这些成绩单。
+
+Recognition (英语): (And people are amazingly disfluent if you take the transcripts from me where it's not doing disfluency processing right now it is, but if you were to take these transcripts.)
+
+
+
+Will @ 10:47:26
+
+Translation (简体中文): 然后试着读它们, 你会认为我疯了, 就这样, 这完全是垃圾。我不明白他的意思
+
+Recognition (英语): (And then try to read them, you'll think I'm insane just look at it like, this is complete garbage. I don't understand him.)
+
+
+
+Will @ 10:47:33
+
+Translation (简体中文): 但我们的头脑真的很擅长过滤掉所有的东西。所以我们想做的是建立一个赞美, 做我们的思想？
+
+Recognition (英语): (But our minds are really good at filtering out all of that stuff. So we wanted to do is build a compliment that does what our minds?)
+
+
+
+Will @ 10:47:36
+
+Translation (简体中文): 我们如何过滤掉所有的噪音。
+
+Recognition (英语): (Do how do we filter out all of that noise.)
+
+
+
+Will @ 10:47:42
+
+Translation (简体中文): 在, 那么人们也不会用标点符号说话。所以我不同意说, 好吧, 很好。
+
+Recognition (英语): (In, then people don't talk with punctuation either. So I don't go along and say, well, it's very nice.)
+
+
+
+Will @ 10:47:52
+
+Translation (简体中文): 为了满足你的经期。你好吗？今天的问号没有人这样说话。好。因此, 我们必须插入这些东西。
+
+Recognition (英语): (To meet you period. How are you? Today question mark nobody talks that way. Okay. So we have to insert those things.)
+
+
+
+Will @ 10:47:56
+
+Translation (简体中文): 进入文本。我们必须对此作出猜测。而我们在头脑中有点做到了这一点。
+
+Recognition (英语): (Into the text. We have to make guesses about that. And we kind of do that in our minds.)
+
+
+
+Will @ 10:48:02
+
+Translation (简体中文): 你也注意到了它是在这样做的时候, 我说的是标点符号。
+
+Recognition (英语): (Also you notice. It's doing that while I'm talking of puts in punctuation.)
+
+
+
+Will @ 10:48:06
+
+Translation (简体中文): 它是如何做到这一点？
+
+Recognition (英语): (How is it doing that?)
+
+
+
+Will @ 10:48:15
+
+Translation (简体中文): 看, 它知道有一个问题。现在在中文里, 这更容易, 你能不能和妈妈结束, 然后你就有了一个问题。
+
+Recognition (英语): (See it knew there was a question. Now in Chinese that's easier could you just end it with mom and then you've got a question.)
+
+
+
+Will @ 10:48:24
+
+Translation (简体中文): 但在英语中, 有点难, 我那是个玩笑。这并不完全是那么简单, 但在英语中他们的总差异。
+
+Recognition (英语): (But in English, it's a little harder, I that's a joke. It's not completely that simple, but in English their total differences.)
+
+
+
+Will @ 10:48:28
+
+Translation (简体中文): 你知道的。所以有一种语气, 英语中的语气信不信由你。英语的语气有变化。
+
+Recognition (英语): (You know. So there's a tone there's tones in English believe it or not. There's a tone change in English.)
+
+
+
+Will @ 10:48:34
+
+Translation (简体中文): 给了我们一个问题。所以我们必须寻找这些语气的变化, 你要去哪里。
+
+Recognition (英语): (Gives us the question. So part of we have to look for these tone changes where are you going.)
+
+
+
+Will @ 10:48:37
+
+Translation (简体中文): 你要去哪里？
+
+Recognition (英语): (Where are you going?)
+
+
+
+Will @ 10:48:46
+
+Translation (简体中文): 你看, 它在英语中发现了一些声调上的差异。这也是其中的一部分, 但也是句法线索。
+
+Recognition (英语): (You see that it's picking up some of those tonal differences in English. That's part of it, but it's also syntactic clues as well.)
+
+
+
+Will @ 10:48:57
+
+Translation (简体中文): 然后是问题, 你知道这个问题, 当我们谈论翻译的时候, 不流利的处理变得复杂得多, 所以这里有一个例子。
+
+Recognition (英语): (And then the problem, you know this problem that disfluency processing becomes much more complicated when we talk about translation so here's an example.)
+
+
+
+Will @ 10:49:06
+
+Translation (简体中文): 从一个实际的谈话。所以在底部, 这个人到底说了什么, 在上面他们认为他们说了什么。
+
+Recognition (英语): (From an actual conversation. So at the bottom what the person actually said and at the top what they thought they said.)
+
+
+
+Will @ 10:49:14
+
+Translation (简体中文): 有趣的是, 你认为你听到了, 但这就是你实际上听到人们这样说的。
+
+Recognition (英语): (And what's interesting is you think you heard that but this is what you actually heard people talk this way.)
+
+
+
+Will @ 10:49:18
+
+Translation (简体中文): 这是很难阅读, 如果你翻译。
+
+Recognition (英语): (This is much harder to read and if you translate that.)
+
+
+
+Will @ 10:49:20
+
+Translation (简体中文): 嗯, 那是德语。
+
+Recognition (英语): (Well, that's German.)
+
+
+
+Will @ 10:49:32
+
+Translation (简体中文): 有普通话吧。也许你可以理解它, 但你知道你知道你知道在哪里, 是这样, 你知道的。
+
+Recognition (英语): (There's Mandarin Chinese it. Maybe you can kind of understand it, but you have you know where is that you know, is that, you know.)
+
+
+
+Will @ 10:49:41
+
+Translation (简体中文): 你知道, 就像他为什么一直说他一直在说什么我知道一些他一直说的事情, 他一直说我知道这个人的问题, 他一直说, 你知道。
+
+Recognition (英语): (You know, it's like why is he keeps saying what does he keep saying I know something he keeps saying I know something what's wrong with this person, he keeps saying, you know.)
+
+
+
+Will @ 10:49:49
+
+Translation (简体中文): 用英语我们说, 你知道, 一直都是, 对吧？这是一个正常的暂停词。现在, 有暂停的话印第安纳普通话。
+
+Recognition (英语): (Well in English we say, you know, all the time, right? It's a normal pause word. Now, there are pause words Indiana Mandarin.)
+
+
+
+Will @ 10:49:58
+
+Translation (简体中文): 还有一个更好的翻译, 我们过滤掉了所有的噪音。所以我们想摆脱这些停顿的话, 这些都是普通话的一些例子。
+
+Recognition (英语): (Also there's a much better translation we filter out all that noise in. So we want to get rid of these pause words, and these are some examples of Mandarin.)
+
+
+
+Will @ 10:50:00
+
+Translation (简体中文): 所以我一秒钟也不会关闭 mic。
+
+Recognition (英语): (So I won't turn the MIC off for a second.)
+
+
+
+Will @ 10:50:38
+
+Translation (简体中文): 对。这是一个暂停的话, 它的意思是它是一个蝙蝠, 或者有。
+
+Recognition (英语): (Right. It's a pause word it would is it means like it's a bat is or that there's.)
+
+
+
+Will @ 10:50:44
+
+Translation (简体中文): 我不能就像, 没有上帝吗？
+
+Recognition (英语): (Would I can't it's like, no God?)
+
+
+
+Will @ 10:50:48
+
+Translation (简体中文): 但并不是这样使用的。它被用作一个暂停词。
+
+Recognition (英语): (But it's not being used that way. It's being used as a pause word.)
+
+
+
+Will @ 10:51:02
+
+Translation (简体中文): 还有一些混乱的例子。这也是这些不同类型的不一致性的一个例子, 所以我们必须处理所有这些, 才能使语音翻译可行。
+
+Recognition (英语): (And there's some examples of disfluencies. This is an example also in these are different kinds of disfluencies, and so we have to process all of these to make speech translation viable.)
+
+
+
+Will @ 10:51:07
+
+Translation (简体中文): 实际上, 这其实是很复杂的。现在我不打算详细介绍这个话题。
+
+Recognition (英语): (It actually ends up being really complicated. Now I'm not going to go into more details on this topic.)
+
+
+
+Will @ 10:51:15
+
+Translation (简体中文): 我可以就去年秋天的这个问题做一个演讲, 我给它说的是你的配音就在这个部分。
+
+Recognition (英语): (I could give a talk just on this actually last fall, I gave it talking you dub just on this component.)
+
+
+
+Will @ 10:51:27
+
+Translation (简体中文): 没有别的了我们只是讨论了如何做不流利的处理和如何正确地做标点符号, 什么模型看起来像我不会进入, 因为我可以花一个小时只是在我想谈论的。其他的事
+
+Recognition (英语): (Nothing else. We talked just about how to do disfluency processing and how to do punctuation correctly, what the models look like I'm not going to get into that because I could spend an hour just on that I want to talk about. Other things.)
+
+
+
+Will @ 10:51:34
+
+Translation (简体中文): 还有。如果你对此有疑问, 请随时问我。我喜欢这个东西。真的很酷。
+
+Recognition (英语): (As well. If you have questions on this feel free to ask me. I love this stuff. It's really cool.)
+
+
+
+Will @ 10:51:43
+
+Translation (简体中文): 所以我们已经看到了很多使用微软翻译器在这种情况下, 像我现在正在做的。
+
+Recognition (英语): (So we've seen a lot of use of Microsoft translator for this kind of scenario like what I'm doing right now.)
+
+
+
+Will @ 10:51:50
+
+Translation (简体中文): 而在学校里。特别是对聋哑和听力不好的学生。所以这是一个很好的例子, 在这是从一个实际的类。
+
+Recognition (英语): (And in the schools. In particular with students that are deaf and hard of hearing. So this is a good example, in this is from an actual class.)
+
+
+
+Will @ 10:51:57
+
+Translation (简体中文): 这是一个学生在这里。这是最大值。你可以看到有一个植入物。这是一个听力装置。
+
+Recognition (英语): (This is a student here. This is max. You can see has an implant. It's a hearing device.)
+
+
+
+Will @ 10:52:09
+
+Translation (简体中文): 它被植入了他的大脑。实际上, 它是在一所学校, 连接到神经末梢在这里, 以实际产生信号。这样他就能听到一些声音。
+
+Recognition (英语): (It's implanted in his brain. It's actually in a school that attaches to nerve endings here to actually generate signals. So he can hear some audio.)
+
+
+
+Will @ 10:52:16
+
+Translation (简体中文): 但这并不是很好。这不是十全十美的。在教室里也是如此。他从老师那里得到的信号是给老师的, 他戴着麦克风。
+
+Recognition (英语): (But it's not really good. It's not perfect. And so in the classroom. He gets the signal from the teacher to the teacher wears a microphone.)
+
+
+
+Will @ 10:52:25
+
+Translation (简体中文): 他们将直接将音频传输到他的共同清晰植入物, 但他也会从同一音频流中获得字幕。所以我们给他。
+
+Recognition (英语): (They will transmit the audio straight to his co clear implants, but also he gets captions from that same audio stream. So we give him.)
+
+
+
+Will @ 10:52:32
+
+Translation (简体中文): 字幕艾玛同时给他音频, 当他没有听到一些他只要看屏幕就能看到的东西时, 你就会看到他。
+
+Recognition (英语): (Captions Emma give him audio at the same time for him when he doesn't hear something he can just look at the screen, you'll see him.)
+
+
+
+Will @ 10:52:38
+
+Translation (简体中文): 就像什么, 然后他就会回头滚动。是的。然后他就可以完全跟着班上走了。
+
+Recognition (英语): (It's like what and then he'll scroll back. Yeah. And then he was so he can follow the class completely.)
+
+
+
+Will @ 10:52:47
+
+Translation (简体中文): 对他来说, 共同明确植入的问题要容易得多, 那就是有人在五英尺外。所以, 让我们说两米远。
+
+Recognition (英语): (It's much easier for him the problem with co clear implants is if someone's five feet away. So let's say two meters away.)
+
+
+
+Will @ 10:52:58
+
+Translation (简体中文): 在那里, 在那里。你听不到很好, 好吧, 那时他们的距离很差。因此, 将音频传输到人工耳蜗意味着那个学生可以在这里像老师站着一样。
+
+Recognition (英语): (There. You can't hear very, well at that point they're distance is very poor. So transmitting audio to the cochlear implant means that that student can here as if the teacher standing.)
+
+
+
+Will @ 10:53:04
+
+Translation (简体中文): 就在他面前这样他就能听到更好的声音。但他还是失去了一些信号。
+
+Recognition (英语): (Right here in front of his face. So he can hear much better. But still he loses some signal.)
+
+
+
+Will @ 10:53:09
+
+Translation (简体中文): 事实是, 我们失去了信号二。
+
+Recognition (英语): (The fact is that we lose signal two.)
+
+
+
+Will @ 10:53:17
+
+Translation (简体中文): 所以你们中的一些人英语说得不如我, 可能不会我肯定不会像你们一样说普通话。
+
+Recognition (英语): (So some of you don't speak English as well as I do probably not I certainly don't speak Mandarin as well, as you guys.)
+
+
+
+Will @ 10:53:24
+
+Translation (简体中文): 如果有人用你不知道的语言说得很快, 那么, 你就会失言。
+
+Recognition (英语): (You and if someone speaking rapidly in a language that you don't know particular, well, you're going to lose words.)
+
+
+
+Will @ 10:53:30
+
+Translation (简体中文): 你有这个, 突然之间, 如果你错过了一些东西, 你就可以回去看看成绩单, 这并不重要。
+
+Recognition (英语): (You have this and all of a sudden it doesn't matter as much if you miss something you can just go back and look at the transcripts.)
+
+
+
+Will @ 10:53:33
+
+Translation (简体中文): 我们在教室里看到的也是。
+
+Recognition (英语): (What we see in the classroom also is.)
+
+
+
+Will @ 10:53:40
+
+Translation (简体中文): 听学生的听力。所以我们会让聋哑学生使用这项服务, 但他们会听到学生会对其中的原因。
+
+Recognition (英语): (Hearing students. So we'll have deaf students will use this service but they hearing students will to why.)
+
+
+
+Will @ 10:53:49
+
+Translation (简体中文): 因为它给了他们文字记录, 它给了他们一个记录, 他们可以回去看看, 他们可以回滚, 我错过了所有的东西。
+
+Recognition (英语): (Because it gives them transcripts it gives them a record of what was talked about they can go back and look they can scroll back and all I missed that.)
+
+
+
+Will @ 10:53:54
+
+Translation (简体中文): 或者你曾经上过一个你喜欢看窗户的班级, 你开始思考晚餐吃什么, 就像。
+
+Recognition (英语): (Or have you ever been in a class where you like to lookout the window and you start thinking about what you have for dinner and it's like.)
+
+
+
+Will @ 10:54:03
+
+Translation (简体中文): 等一下, 我错过了什么非常重要的东西, 然后就没了, 对吧？你没有办法把它拿回来, 但如果是在文字记录中的话。
+
+Recognition (英语): (Wait wait a minute what I missed something really important, and then it's gone, right? You have no way to get it back, but if it's in transcripts like.)
+
+
+
+Will @ 10:54:14
+
+Translation (简体中文): 是的。是的。是的。对。没问题, 谢谢。所以你可以看到一堆不同的用途。这些都是类。
+
+Recognition (英语): (Yeah. Yeah. Yeah. Right. No problem thanks. So you can see a bunch of different uses. These are classes.)
+
+
+
+Will @ 10:54:20
+
+Translation (简体中文): 这其实是我做了一个非常相似的讲座, 听这一群来自中国的高中生。
+
+Recognition (英语): (This is actually me giving a lecture very similar lecture to hear this all group of high school students from china.)
+
+
+
+Will @ 10:54:28
+
+Translation (简体中文): 同样的情况在这里。但这些也是不同的讲座, 已经给了这是一个生物课。
+
+Recognition (英语): (Same scenario here. But also these are different lectures that have been given an this is a biology class.)
+
+
+
+Will @ 10:54:42
+
+Translation (简体中文): 这里有250名学生在里面。而在班前的那个班里, 大约有 3 0名聋哑学生。所以在课堂上, 通常坐在前排, 他们在电脑上做成绩单, 然后在整个教室里都要做成绩单。
+
+Recognition (英语): (Here with 250 students in it. And in that class at the front of the classes are about 30 students who are deaf. So there in the class there usually sitting in the front they're going transcripts on their computers, and then throughout the classroom.)
+
+
+
+Will @ 10:54:50
+
+Translation (简体中文): 我们会看到, 学生们的电脑打开了他们的成绩单, 平均将得到大约50到70名学生。
+
+Recognition (英语): (We'll see students had their computers open their getting transcripts to on average will get around 50 to 70 students out of two.)
+
+
+
+Will @ 10:55:01
+
+Translation (简体中文): 想在他们的电脑上有成绩单, 这个班真的很有趣。所以这里的这个你可以看到教授在谈论它显示字幕。
+
+Recognition (英语): (That want to have transcripts on their computers this class is really interesting. So this one here you can see the professor's talking it showing captions.)
+
+
+
+Will @ 10:55:08
+
+Translation (简体中文): 在这个特殊的类。我正好在那里的那天, 这个学生要求这项服务。
+
+Recognition (英语): (In this particular class. I just happened to be there that day this student had requested this service.)
+
+
+
+Will @ 10:55:17
+
+Translation (简体中文): 聋子, 她放弃了课程。所以她已经不在班里了。所以教授经常拿着她的麦克风。
+
+Recognition (英语): (Deaf she dropped the class. So she was no longer in the class. So the professor was taking her microphone often was setting it down.)
+
+
+
+Will @ 10:55:21
+
+Translation (简体中文): 教室里还有25个学生, 就像你在做什么一样。你为什么要把话筒关掉？
+
+Recognition (英语): (There are 25 other students in the classroom like what are you doing. Why are you taking the microphone off?)
+
+
+
+Will @ 10:55:28
+
+Translation (简体中文): 就像, 好吧, 所以已经不在了。我不需要这个现在, 就像昨天你用的一样。
+
+Recognition (英语): (It's like, well so and so isn't here anymore. I don't need this. Now, like yesterday you were using it.)
+
+
+
+Will @ 10:55:35
+
+Translation (简体中文): 请把那个麦克风的背景再放一次。就像都是听到学生的声音。就像, 当她在哪里使用的时候, 继续使用它。
+
+Recognition (英语): (Please put that microphone background again. It's like it's all hearing students. It's like, when she's where using it keep using it.)
+
+
+
+Will @ 10:55:41
+
+Translation (简体中文): 因此, 在接下来的14周里, 她为听力学生使用了转录, 因为他们正在使用。
+
+Recognition (英语): (So for the next 14 weeks she used the transcription for the hearing students because they were using it.)
+
+
+
+Will @ 10:55:48
+
+Translation (简体中文): 部分原因与此自定义有关。所以我将在一秒钟内描述这一点。这是个圈套我不会通过的。
+
+Recognition (英语): (Part of it has to do with this customization. So I'll describe that in just a second. This is a setup. I won't go through.)
+
+
+
+Will @ 10:55:54
+
+Translation (简体中文): 如果您需要幻灯片甲板, 我将向您展示如何实际执行此示例屏幕截图。
+
+Recognition (英语): (These steps if you want the slide deck, I'll show you how to actually do this example screenshot.)
+
+
+
+Will @ 10:55:58
+
+Translation (简体中文): 更多关于这一点的信息。我现在就跳过这个。
+
+Recognition (英语): (More information on this. I'll skip this for now.)
+
+
+
+Will @ 10:55:59
+
+Translation (简体中文): 
+
+Recognition (英语): (undefined)
+
+
+
+Will @ 10:56:07
+
+Translation (简体中文): 但我们也看到了教育的其他用途。所以在这个国家, 有很多移民。
+
+Recognition (英语): (But we're seeing other uses in education too. So for in this country, there are a lot of immigrants.)
+
+
+
+Will @ 10:56:15
+
+Translation (简体中文): 谁来这个家长说得不是特别好的国家, 所以很多学校都用这个和家长说话？
+
+Recognition (英语): (Who come to this country where the parents don't speak the language particularly well, so a lot of schools are using this to talk with the parents?)
+
+
+
+Will @ 10:56:24
+
+Translation (简体中文): 所以这个特殊的学校。这是学校的原则。这是他们的信息技术人, 他们每个月都有这些常客, 他们和父母见面。
+
+Recognition (英语): (So this particular school. This is the principle of the school. This is their information technology guy they have these regular every month they have a meeting with the parents.)
+
+
+
+Will @ 10:56:33
+
+Translation (简体中文): 所以家长来了这所学校, 有 6 0 种不同的语言。他们不能有60种语言的口译人员。不可能。
+
+Recognition (英语): (So the parents come in this school, there are 60 different languages spoken. They can't have interpreters for 60 languages. That's impossible.)
+
+
+
+Will @ 10:56:39
+
+Translation (简体中文): 所以发生的事情是, 他们使用的服务你可以在这里看到家长在手机上加入的成绩单。
+
+Recognition (英语): (And so what happened is they use the service you can see the transcripts here the parents join on their phones.)
+
+
+
+Will @ 10:56:45
+
+Translation (简体中文): 他们让他事先让她说, 请带上你的手机下载应用程序, 然后你就可以参加谈话了。
+
+Recognition (英语): (They get him to let her beforehand saying please bring your phone download the app and then you can participate in the conversation.)
+
+
+
+Will @ 10:56:51
+
+Translation (简体中文): 他们在这次特别的会议上做了9种不同的语言。
+
+Recognition (英语): (And they do in this particular meeting 9 different languages.)
+
+
+
+Will @ 10:56:59
+
+Translation (简体中文): 所以家长们能够看到正在谈论的事情, 这很简单, 比如我们周二会有短暂的一天。
+
+Recognition (英语): (So the parents are able to see what's being talked about and it's simple things like we're going to have a short day on Tuesday.)
+
+
+
+Will @ 10:57:06
+
+Translation (简体中文): 或者午餐将在周四三点供应, 一些对家长来说很重要的事情需要知道。
+
+Recognition (英语): (Or lunch will be served at three o'clock on Thursday things that are important for the parent to know.)
+
+
+
+Will @ 10:57:13
+
+Translation (简体中文): 否则他们不会知道的你明白我的意思了吗, 这样他们就可以谈论父母得到他们会丢失的信息了？否则。
+
+Recognition (英语): (They wouldn't know, otherwise. Do you see what I'm saying, so they can talk about the parents get the information that they would be missing? Otherwise.)
+
+
+
+Will @ 10:57:18
+
+Translation (简体中文): 而且他们可以问能问问题。
+
+Recognition (英语): (And they can ask the can ask questions.)
+
+
+
+Will @ 10:57:26
+
+Translation (简体中文): 这是一些小窍门, 这里也会有视频。如果你想看一下关于这个的视频, 我这里有一个链接。
+
+Recognition (英语): (This is tips that will there's a video here too. I have a link here if you wanted to see a video about that.)
+
+
+
+Will @ 10:57:31
+
+Translation (简体中文): 然后还有一所学校这样对家长会进来, 我也会有一所。
+
+Recognition (英语): (And then also one of the schools does this to the parents will come in and I'll have one.)
+
+
+
+Will @ 10:57:37
+
+Translation (简体中文): 一个会议使用电话。于是, 老师们对着电脑说话, 家长们看到了她身上的字幕。
+
+Recognition (英语): (One conferences using the phone. So the teachers talking into the computer the parents seeing the captions on her.)
+
+
+
+Will @ 10:57:38
+
+Translation (简体中文): 装置。
+
+Recognition (英语): (Device.)
+
+
+
+Will @ 10:57:43
+
+Translation (简体中文): 如果你有兴趣的话, 还有一段视频。
+
+Recognition (英语): (There's another video if you're interested.)
+
+
+
+Will @ 10:57:52
+
+Translation (简体中文): 所以我想花一点时间花在这个秘密的把戏, 我给你看了雪启示录。
+
+Recognition (英语): (So I want to spend a little bit of time about this secret trick that I showed you with snowpocalypse.)
+
+
+
+Will @ 10:57:57
+
+Translation (简体中文): 所以这是自定义。
+
+Recognition (英语): (So this is customization.)
+
+
+
+Will @ 10:58:05
+
+Translation (简体中文): 我们可以自定义语音识别和机器翻译。我不会通过机器翻译定制。
+
+Recognition (英语): (And we can customize the speech recognition and the machine translation. I won't go through the machine translation customization.)
+
+
+
+Will @ 10:58:11
+
+Translation (简体中文): 更多的参与, 我有一个指针, 如果你有兴趣, 但语音识别自定义真的很有趣。
+
+Recognition (英语): (More involved, I have a pointer to it if you're interested but the speech recognition customization is really interesting.)
+
+
+
+Will @ 10:58:23
+
+Translation (简体中文): 因为我们可以做什么, 我们支持两种定制, 你可以根据文本定制。所以你给它文本内容, 然后它自定义是一个语音识别。
+
+Recognition (英语): (Because what we can do and there's two kinds of customization that we support you can customize based on text. So you give it text content, and then it customize is a speech recognition.)
+
+
+
+Will @ 10:58:25
+
+Translation (简体中文): 我会讨论它是如何做到这一点的。
+
+Recognition (英语): (I'll discuss how it does that.)
+
+
+
+Will @ 10:58:32
+
+Translation (简体中文): 你也可以做音频定制, 你可以适应一个人的声音, 有一个非常有趣的用例。
+
+Recognition (英语): (You can also do audio customization where you can adapt to a person's voice and there's a really interesting use case.)
+
+
+
+Will @ 10:58:40
+
+Translation (简体中文): 就为了这个。让我们先谈谈文本自定义。所以这是一个生物课。我之前说过。
+
+Recognition (英语): (For that. Let's talk about the text customization first. So this is a this biology class. I talked about earlier.)
+
+
+
+Will @ 10:58:44
+
+Translation (简体中文): 这些都是刚开始上大学的学生。
+
+Recognition (英语): (This is these are all students that just started college.)
+
+
+
+Will @ 10:58:47
+
+Translation (简体中文): 这是他们的第二天课。
+
+Recognition (英语): (This is their second day of class.)
+
+
+
+Will @ 10:58:56
+
+Translation (简体中文): 生物学 1 0 1 这是生物入门课。这些都是教授那天说的。
+
+Recognition (英语): (Biology 1 0 1 this is the introductory biology class. These are all the words the professor said that day.)
+
+
+
+Will @ 10:59:04
+
+Translation (简体中文): 现在它可能无法识别其中的一些单词的基础语音识别。但教授可以把这些放进她的滑梯甲板上。
+
+Recognition (英语): (Now it may not recognize some of those words the base speech recognition. But the professor can put these into her slide deck.)
+
+
+
+Will @ 10:59:13
+
+Translation (简体中文): 现在就会知道他们了。所以我可以说核苷酸多核苷酸单体糖蛋白脂蛋白单糖。
+
+Recognition (英语): (And now will know them. So I can say nucleotide polynucleotide monomer glycoproteins lipoproteins monosaccharide.)
+
+
+
+Will @ 10:59:27
+
+Translation (简体中文): 它得到了所有这些话。现在, 你明白学生们为什么抗议了吗？不, 我们希望你把耳机戴上, 因为他们得到了教授谈论的所有这些技术词的文字记录。
+
+Recognition (英语): (And it gets all of those words. Now, do you see why the students were protesting? No, we want you to keep the headset on because they get the transcripts of what the professor's talking about all these technical words.)
+
+
+
+Will @ 10:59:29
+
+Translation (简体中文): 突然被抄写。
+
+Recognition (英语): (All of a sudden get transcribed.)
+
+
+
+Will @ 10:59:38
+
+Translation (简体中文): 而且它甚至不一定是真实的词, 它可以向上或非常具体的词。所以。
+
+Recognition (英语): (And it doesn't even have to be real words, it can be made upwards or words that are very, very specific. So.)
+
+
+
+Will @ 10:59:49
+
+Translation (简体中文): 这是在这里的海洋生物学。这是一种出现的水生动物物种。
+
+Recognition (英语): (This right here is in Marine biology. This is a some sort of aquatic animal species arise.)
+
+
+
+Will @ 10:59:52
+
+Translation (简体中文): 一个叫科波达的类。
+
+Recognition (英语): (A class called copepoda.)
+
+
+
+Will @ 10:59:58
+
+Translation (简体中文): 而科波达由10个订单组成。
+
+Recognition (英语): (And copepoda consists of 10 orders calanoida cyclopoida harpacticoida.)
+
+
+
+Will @ 11:00:06
+
+Translation (简体中文): 地球上没有能做到这一点的语音识别。
+
+Recognition (英语): (There is no speech recognition on the planet that can do that.)
+
+
+
+Will @ 11:00:11
+
+Translation (简体中文): 本身。你必须以某种方式来解释, 因为它为什么会知道这些话。这些都是文字。
+
+Recognition (英语): (By itself. You have to prime it in some way because why would it know these words. These are words.)
+
+
+
+Will @ 11:00:22
+
+Translation (简体中文): 这一特定的生物学领域是如此的具体。它不可能知道这些词, 所以像我在这里做的那样把它们放进滑梯甲板上。
+
+Recognition (英语): (There's so specific to this particular area of biology. It's not possible for it to know those words, and so by putting them into the slide deck like I did here.)
+
+
+
+Will @ 11:00:31
+
+Translation (简体中文): 它在这些词建立一个声学表示法。因此, 它或多或少地建立了该类别的正则化。
+
+Recognition (英语): (It builds an acoustic representation over those words. So it more or less builds a regularization of that category.)
+
+
+
+Will @ 11:00:41
+
+Translation (简体中文): 它在飞行中建立了一个声学表示, 你可以离线做这个。所以我说的是回到这个学校的学校, 就在这里。
+
+Recognition (英语): (And it builds an acoustic representation on the fly for that slide duck you can do this offline too. So the school that I was talking about going back to this school, right here.)
+
+
+
+Will @ 11:00:51
+
+Translation (简体中文): 他们建立了一个生物学模型。因此, 他们离线这样做, 他们建立了这个巨大的生物学模型使用我们的定制服务, 然后每当他们教生物课。
+
+Recognition (英语): (They build a biology models. So they do this offline they build this huge biology model using our customization service and then anytime they teach biology class.)
+
+
+
+Will @ 11:00:55
+
+Translation (简体中文): 所有这些词汇都是生物学所特有的吗？
+
+Recognition (英语): (Has all of this vocabulary specific to biology?)
+
+
+
+Will @ 11:01:03
+
+Translation (简体中文): 但也可以是其他语言中的单词。下面是一个例子。这其实是一个名字, 这是。
+
+Recognition (英语): (But it can also be words in other languages. So here's an example. This is actually a name that's.)
+
+
+
+Will @ 11:01:04
+
+Translation (简体中文): 因 纽特 人。
+
+Recognition (英语): (Inuit.)
+
+
+
+Will @ 11:01:20
+
+Translation (简体中文): 因努伊特语是美国北部和加拿大使用的美国印第安人语言。所以我可以谈谈安妮·波图古克, 她画了一幅2003年皮索拉克的画像。
+
+Recognition (英语): (Inuit is an American Indian language spoken in the north of the United States and Canada. And so I can talk about Annie Pootoogook who painted a portrait of pitseolak an 2003.)
+
+
+
+Will @ 11:01:34
+
+Translation (简体中文): 因为它在我的滑梯甲板上。而这也适用于普通话。所以, 如果你有一个滑板, 你也可以做同样的事情。那是用汉字说的, 他们喜欢。
+
+Recognition (英语): (Because it's in my slide deck. And this works for Mandarin too. So you can do the same thing if you have a slide deck. That's in Chinese characters, they like.)
+
+
+
+Will @ 11:01:42
+
+Translation (简体中文): 你在其中放的技术词说我不知道这些词, 当它建立它的模型, 它说我要建立一个代表在这些。
+
+Recognition (英语): (Technical words you put the technical words in it says I don't know those words when it builds its model it says I'm going to build a representation over those.)
+
+
+
+Will @ 11:01:48
+
+Translation (简体中文): 它将猜测它们在技术越多的单词中的发音, 一般它做得越好, 因为技术词。
+
+Recognition (英语): (It will make a guess about how they're pronounced in the more technical the word generally the better it does because technical words.)
+
+
+
+Will @ 11:01:53
+
+Translation (简体中文): 而属于的技术词越长越好。它做较短的词。它有一个艰难的时期。
+
+Recognition (英语): (And to belong the longer the technical word the better. It does shorter words. It has a harder time.)
+
+
+
+Will @ 11:02:01
+
+Translation (简体中文): 这很有意义, 因为简短的单词有时会有听起来像它们的声音相似的词, 我会感到困惑。
+
+Recognition (英语): (And that makes sense because short words sometimes have sound alikes words that sound like them and I'll get confused.)
+
+
+
+Will @ 11:02:08
+
+Translation (简体中文): 因此, 如果你提供了大量的上下文, 它绕开混乱的方式就是语境, 这个词是如何使用的？
+
+Recognition (英语): (So the way it gets around that confusion is context if you provide lots of context, how is this word used?)
+
+
+
+Will @ 11:02:14
+
+Translation (简体中文): 因此, 在幻灯片笔记中, 或者在您提供的可放入的自定义服务的材料中。
+
+Recognition (英语): (So in your slide notes, for instance, or in the material that you provide the customization service you can put in.)
+
+
+
+Will @ 11:02:18
+
+Translation (简体中文): 关于如何在其中使用这些词的上下文往往会做得更好。
+
+Recognition (英语): (The context about how these words are used in it will tend to do better.)
+
+
+
+Will @ 11:02:25
+
+Translation (简体中文): 所以我知道你们中的一些人正在研究与无障碍相关的东西。所以我想回到这个无障碍环境。
+
+Recognition (英语): (So I know some of you are working on accessibility related things. So I'd like to come back to this accessibility.)
+
+
+
+Will @ 11:02:31
+
+Translation (简体中文): 我已经谈到了一些场景。所以我们谈到了班上的聋哑学生。
+
+Recognition (英语): (Scenario that I talked about a little bit already. So we talked about the deaf students in class.)
+
+
+
+Will @ 11:02:42
+
+Translation (简体中文): 所以让我们来谈谈这些用途。所以这些都是我们技术的使用与聋哑人和听力不好的人的照片。
+
+Recognition (英语): (So let's talk about these uses. And so these are pictures of uses of our technology with people who are deaf and hard of hearing.)
+
+
+
+Will @ 11:02:53
+
+Translation (简体中文): 所以左上角的例子是一位教授和他的学生交谈, 你可以看到学生穿着助听器, 她可以看到教授正在谈论的文字记录。
+
+Recognition (英语): (So the example here on the upper left hand corner is a professor talking to his student the students in the transcripts you can see the students wearing hearing aids she can see the transcripts of what the professor is talking about.)
+
+
+
+Will @ 11:02:58
+
+Translation (简体中文): 在他们的上班时间因此, 他们来到上班时间, 通过他们的设备连接。
+
+Recognition (英语): (In their office hours. So they come to office hours they connect up via their devices.)
+
+
+
+Will @ 11:03:06
+
+Translation (简体中文): 这是一个学生在校园里互相交流的例子, 这个学生问他方向, 我怎么去哪里。
+
+Recognition (英语): (This is an example of students communicating with each other on campus this students asking him for directions, how it where do I go.)
+
+
+
+Will @ 11:03:12
+
+Translation (简体中文): 我需要去这个办公室, 这个学生不在这里。他看到了正在说的话的标题, 他说。
+
+Recognition (英语): (I need to go to this office this student doesn't here. He sees the captions of what's being said, and he says.)
+
+
+
+Will @ 11:03:17
+
+Translation (简体中文): 然后它就能告诉他。如果他有发言权, 我们可以输入什么？
+
+Recognition (英语): (And then it can tell him. What do we can either type in the response or if he has a voice?)
+
+
+
+Will @ 11:03:18
+
+Translation (简体中文): 说话。
+
+Recognition (英语): (Talk.)
+
+
+
+Will @ 11:03:25
+
+Translation (简体中文): 然后这是我在其中一所大学开的会议, 这两个人都是聋子。
+
+Recognition (英语): (And then this is a meeting I had at one of the universities these two guys are deaf.)
+
+
+
+Will @ 11:03:32
+
+Translation (简体中文): 所以他们当时可以, 我不懂手语。我现在知道一些手语, 但时间我不知道。
+
+Recognition (英语): (So they can at the time, I didn't know sign language. I know some sign language now, but the time I didn't know any.)
+
+
+
+Will @ 11:03:39
+
+Translation (简体中文): 所以我唯一能和他们谈话的方式也是。我们有翻译, 但那天没有翻译。所以就像, 我怎么开会？
+
+Recognition (英语): (So the only way I was going to talk with them is either. We had an interpreter but we didn't have an interpreter that day. So it's like, how am I going to have a meeting?)
+
+
+
+Will @ 11:03:44
+
+Translation (简体中文): 它在使用我们的应用程序, 你很快就能看到我在手机里说话的说明。
+
+Recognition (英语): (It's using our apps and you can see there soon the captions of what I'm saying while I'm talking into my phone.)
+
+
+
+Will @ 11:03:51
+
+Translation (简体中文): 所以我只是和我的手机说话, 他们看到了字幕, 然后如果他们能说出来, 就能顶嘴, 或者他们可以。
+
+Recognition (英语): (So I just talking to my phone they see the captions and then if they can speak the can talk back or they can.)
+
+
+
+Will @ 11:03:58
+
+Translation (简体中文): 输入他们想对我说的话, 既然我们可以激活一个声音来写你听到了这个声音。
+
+Recognition (英语): (Type in what they want to say to me and since we can activate a voice to write you've heard the voice.)
+
+
+
+Will @ 11:04:04
+
+Translation (简体中文): 其实他们也可以和我说话。所以, 如果他们输入他们想说的话。
+
+Recognition (英语): (They can actually it can speak to me too. So if they type in what they want to say.)
+
+
+
+Will @ 11:04:10
+
+Translation (简体中文): 按下按钮, 它就会说话, 即使他们没有声音, 也会说他们想说的话。
+
+Recognition (英语): (Hit the button it will then speak it will say what it is that they want to say even if they don't have a voice.)
+
+
+
+Will @ 11:04:13
+
+Translation (简体中文): 如果他们想要, 就会为他们产生话语权。
+
+Recognition (英语): (It will produce a voice for them if they want that.)
+
+
+
+Will @ 11:04:25
+
+Translation (简体中文): 其中一所大学在这所大学里使用了相当多的这项技术, 就是他们甚至有一个专门用于这项技术的网站。这是纽约罗切斯特的一所学校。
+
+Recognition (英语): (One of the universities is using this technology quite a bit at the University of this is they even have a website dedicated to it. This is a school in Rochester New York.)
+
+
+
+Will @ 11:04:31
+
+Translation (简体中文): 其中约有 8% 的学生是聋哑和听力不好, 他们在整个校园里使用翻译。
+
+Recognition (英语): (Which has about 8 percent of their students are deaf and hard of hearing and they used translator throughout campus.)
+
+
+
+Will @ 11:04:41
+
+Translation (简体中文): 我要去这是一个视频, 我要跳过这种场景与教授与学生交谈。
+
+Recognition (英语): (I'm going to this is a video, I'm going to skip this kind of shows this scenario playing out with professor talking with a student.)
+
+
+
+Will @ 11:04:47
+
+Translation (简体中文): 因为我想给你看点别的东西这就是我刚开始的。我不是故意的。
+
+Recognition (英语): (Cause I want to show you something else. That's really what's I just started it. I didn't mean to.)
+
+
+
+Will @ 11:04:51
+
+Translation (简体中文): 好了, 失聪的声音
+
+Recognition (英语): (Okay, deaf voice.)
+
+
+
+Will @ 11:04:58
+
+Translation (简体中文): 看看它是否得到了, 对吧。有时它错过了抄写这个词的机会。我把它在滑梯甲板上了。
+
+Recognition (英语): (See if it got it, right. Sometimes it miss transcribes that word. I have it in the slide deck.)
+
+
+
+Will @ 11:05:02
+
+Translation (简体中文): 但有时结果却是聋子。
+
+Recognition (英语): (But it comes out as deaf sometimes.)
+
+
+
+Will @ 11:05:16
+
+Translation (简体中文): 这是个联欢会, 对吧？同样, 这里的概率确实很强, 但它真的让聋哑人认为这很有趣, 因为我认为我说的是死人, 他们就像, 好吧, 随便什么。
+
+Recognition (英语): (It's a gala, right? Again, it's the probabilities are really strong here, but it really gets people who are deaf they think that's very funny because I'm they think I'm talking about dead people and they're like, okay, whatever.)
+
+
+
+Will @ 11:05:17
+
+Translation (简体中文): 
+
+Recognition (英语): (undefined)
+
+
+
+Will @ 11:05:29
+
+Translation (简体中文): 聋哑人声音这是这位教授的一个例子。他是罗切斯特大学的教授。他是聋子
+
+Recognition (英语): (The deaf voice this an example of this professor. He's a professor at University in Rochester. He's deaf.)
+
+
+
+Will @ 11:05:41
+
+Translation (简体中文): 所以当他教他的课的时候, 他经常会签字。所以他会向聋哑人的学生签字, 但问题是他教的课, 听力学生也是来的。
+
+Recognition (英语): (So when he teaches his class is often times he will sign. So he'll sign to the students who are deaf but the problem is he teaches classes that hearing students come to also.)
+
+
+
+Will @ 11:05:46
+
+Translation (简体中文): 他们不懂手语。谢谢。安, 那么。
+
+Recognition (英语): (They don't know sign language. Thank you. Ann. So.)
+
+
+
+Will @ 11:05:53
+
+Translation (简体中文): 是啊, 其实, 谢谢你非常善于观察。
+
+Recognition (英语): (Yeah, actually, thank you very observant.)
+
+
+
+Will @ 11:06:11
+
+Translation (简体中文): 所以有时他们会做的是让翻译为他说话, 但他能说英语, 只是很明显。
+
+Recognition (英语): (So sometimes what they'll do is I'll have an interpreter for him will speak for him but he can speak English it just has a very pronounced.)
+
+
+
+Will @ 11:06:20
+
+Translation (简体中文): 口音。这与失聪有关。所以, 如果你现在不知道我们的思想真的很善于适应, 他就很难理解。
+
+Recognition (英语): (Accent. That's associated with being deaf. So he's difficult to understand if you don't know now our minds are really good at adapting.)
+
+
+
+Will @ 11:06:31
+
+Translation (简体中文): 发出不寻常的声音。所以再过几个星期, 学生们就会理解他, 问题是他们不喜欢, 就像我不理解这个家伙一样, 他们放弃了他们的课, 他们不再上他的课了。
+
+Recognition (英语): (Issue unusual voices. So in a couple of weeks students would understand him the problem is they don't like it there's like i don't understand this guy they dropped the class of they stopped taking his class.)
+
+
+
+Will @ 11:06:39
+
+Translation (简体中文): 他不喜欢那样。他想让学生呆在这里。所以你可以看到他戴着麦克风, 所以我们做的是调整模型。
+
+Recognition (英语): (He didn't like that. He wanted students to stay in. So you can see he's wearing a microphone and so what we did is we adapted the models.)
+
+
+
+Will @ 11:06:40
+
+Translation (简体中文): 他的声音
+
+Recognition (英语): (His voice.)
+
+
+
+Will @ 11:06:48
+
+Translation (简体中文): 这样他就能用聋哑人的声音说话, 它就能产生字幕, 就像它对我一样。
+
+Recognition (英语): (So that he can speak with his deaf voice and it produces captions just like it does for me.)
+
+
+
+Will @ 11:07:00
+
+Translation (简体中文): 所以这里有一个例子, 这真的很不可思议。其实, 所以我要在这里演奏他的声音, 你们大多数人都不会明白这一点。
+
+Recognition (英语): (So here's an example this is really amazing. Actually, so I'm going to play his voice here most of you are not going to understand this.)
+
+
+
+Will @ 11:07:02
+
+Translation (简体中文): 锅。
+
+Recognition (英语): (Pot.)
+
+
+
+Will @ 11:07:09
+
+Translation (简体中文): 你理解他。
+
+Recognition (英语): (You understand him.)
+
+
+
+Will @ 11:07:14
+
+Translation (简体中文): 如果你们在理解他之前就听说过这个, 你们中的一些人就会这样做。我再玩一次。
+
+Recognition (英语): (Some of you do if you've heard this before you might understand him. I'm gonna play it one more time.)
+
+
+
+Will @ 11:07:22
+
+Translation (简体中文): 
+
+Recognition (英语): (undefined)
+
+
+
+Will @ 11:07:30
+
+Translation (简体中文): 他很难理解第二次你们中的一些人可能得到了更多, 那么你们中的更多的人可能得到了它, 但这真的很难理解。
+
+Recognition (英语): (He's hard to understand the second time some of you probably got it more that time more of you probably got it but it's really hard to understand.)
+
+
+
+Will @ 11:07:36
+
+Translation (简体中文): 所以, 如果我们在模型中使用我们的基本模型。我在这里用。如果我们用我们的基本模型来表达他的声音。
+
+Recognition (英语): (So if we use our base models in models. I'm using right here. If we use our base models for his voice.)
+
+
+
+Will @ 11:07:44
+
+Translation (简体中文): 你得到的成绩单显示是正确的。在那里你看, 就像我们刚刚又在谈论大车的钱一样。我还有几个游戏玩家教堂。同样。
+
+Recognition (英语): (You get the transcript is showing right. There you see it's like we just talked about money again for the large car. I have a few more gamper churches. Likewise.)
+
+
+
+Will @ 11:07:54
+
+Translation (简体中文): 这完全是胡说八道。但当我们让它适应他的声音时。我们刚刚讨论了上一节课的这么多例子。
+
+Recognition (英语): (That's complete nonsense. But then when we adapt it to his voice. We just talked about so many examples from the last class.)
+
+
+
+Will @ 11:07:58
+
+Translation (简体中文): 在这里, 我还有几个例子要给大家看。
+
+Recognition (英语): (Here, I have a few more examples to show you.)
+
+
+
+Will @ 11:08:07
+
+Translation (简体中文): 适应了他的声音三个小时对他的满足。所以我们花了三个小时他用抄写的方式交谈。
+
+Recognition (英语): (Adapted to his voice three hours of his content. So we took three hours of him talking with transcriptions.)
+
+
+
+Will @ 11:08:13
+
+Translation (简体中文): 使模型适应了他使用的声音, 那就是用那个模型。所以我在这里给你一些技术数字。
+
+Recognition (英语): (Adapted the model to his voice using, that's using that model. So I'm going to give you some technical numbers here.)
+
+
+
+Will @ 11:08:21
+
+Translation (简体中文): 所以基线是他声音上的基线模型。这是一个只需谈论第一个时钟的时钟。
+
+Recognition (英语): (So the baseline are baseline model on his voice. This is a clock going to just talk about the first one.)
+
+
+
+Will @ 11:08:27
+
+Translation (简体中文): 这是他的班级, 他教他的课。这是他大声读一本书。所以他教他的班级。
+
+Recognition (英语): (This is his class him teaching his class. This is him reading a book aloud. So him teaching his class.)
+
+
+
+Will @ 11:08:37
+
+Translation (简体中文): 这是我们的基本型号51.9% 的单词错误率。太可怕了。
+
+Recognition (英语): (This is the word error rate for our base model 51.9 percent. That's terrible.)
+
+
+
+Will @ 11:08:43
+
+Translation (简体中文): 好。因此, 单词错误率表示您希望该数字尽可能低的信号中的错误。
+
+Recognition (英语): (Okay. So word error rate talks about the error in the signal you want that number to be as low as possible.)
+
+
+
+Will @ 11:08:53
+
+Translation (简体中文): 所以我的错误率对我们的模型来说是10% 左右, 最好的人类表现, 我前面提到的是运行4% 到6%。
+
+Recognition (英语): (So the error rate for me for our models around 10 percent for the best human performance which i mentioned earlier to run four to 6 percent.)
+
+
+
+Will @ 11:08:54
+
+Translation (简体中文): 最好的人类
+
+Recognition (英语): (Best human.)
+
+
+
+Will @ 11:09:01
+
+Translation (简体中文): 51% 的人意味着其他每个词都是错误的。它是不可用的。
+
+Recognition (英语): (51 percent that means every other word is an error. It's not usable.)
+
+
+
+Will @ 11:09:08
+
+Translation (简体中文): 当我们适应他的声音时, 我们会把声音降到21%。
+
+Recognition (英语): (When we adapt to his voice we drop it down to 21 percent.)
+
+
+
+Will @ 11:09:23
+
+Translation (简体中文): 这是一个巨大的下降。所以这就是他声音里三个小时的内容。如果我们做词汇改编, 我们就会适应它。所以不管他那天说的是什么, 我在这里做的事情, 你把技术词汇放在了技术词汇里。
+
+Recognition (英语): (That's a huge drop. So that's three hours of content from his voice. We adapt it if we do the vocabulary adaptation. So whatever he's talking about that day what I did here where you put in the vocabulary the technical vocabulary is talking about.)
+
+
+
+Will @ 11:09:27
+
+Translation (简体中文): 它下降了一点, 但你把其中的两个结合在一起, 你就把它归结为。
+
+Recognition (英语): (It drops a little bit but you combine the two of those together and you get it down to.)
+
+
+
+Will @ 11:09:33
+
+Translation (简体中文): 20% 以下20% 以下是可用的。听起来不会是五成的一个字。
+
+Recognition (英语): (Under 20 percent 20 percent is usable. It sounds like it wouldn't be it's one in five words.)
+
+
+
+Will @ 11:09:46
+
+Translation (简体中文): 我的意思是, 这似乎很傻。但有很多函数词, 我们说, 如果你放弃这些词。
+
+Recognition (英语): (I mean it seems silly. But there's a lot of function words that we say that if you drop those words.)
+
+
+
+Will @ 11:09:49
+
+Translation (简体中文): 把那些我们还能理解的都弄错了。
+
+Recognition (英语): (Get those wrong we still understand.)
+
+
+
+Will @ 11:09:56
+
+Translation (简体中文): 所以你现在可以看到, 仅仅是这种非常有限的适应量。我们正在做更多的工作来适应。
+
+Recognition (英语): (And so you can see now with just this very limited amount of adaptation. We're doing more work to adapt.)
+
+
+
+Will @ 11:10:04
+
+Translation (简体中文): 他的声音和这所大学的其他聋哑教授。因此, 他们实际上可以用自己的声音说话, 用耳机授课。
+
+Recognition (英语): (His voice and other deaf professors of this universities. So they can actually speak in their voice and teach classes using a headset.)
+
+
+
+Will @ 11:10:11
+
+Translation (简体中文): 而这又有什么有趣的呢？他们这样做不是为了聋哑学生, 因为它是聋哑学生理解手语。所以他们很好。
+
+Recognition (英语): (And what's interesting about that? It's not for the deaf students they're doing it because it deaf students understand sign language. So they're fine.)
+
+
+
+Will @ 11:10:21
+
+Translation (简体中文): 是听到学生得到字幕。因此, 这种反演性方程的方式, 因为我们通常认为字幕是聋哑人的东西。
+
+Recognition (英语): (It's hearing students that are getting the captions. So kind of inverts the whole accessibility equation cause we usually we think about captions as being something for the deaf people.)
+
+
+
+Will @ 11:10:24
+
+Translation (简体中文): 但在这种情况下, 是为了听证的人。
+
+Recognition (英语): (But in this case, it's for the hearing people.)
+
+
+
+Will @ 11:10:32
+
+Translation (简体中文): 然后你把所有的词汇的东西, 成为非常重要的, 什么对不起。
+
+Recognition (英语): (And then you throw it all that vocabulary stuff in that becomes very important, what sorry.)
+
+
+
+Will @ 11:10:44
+
+Translation (简体中文): 不管怎么说, 我不知道你我不是故意再玩的, 好吗。我有, 所以我的谈话已经结束了。
+
+Recognition (英语): (Anyway. I didn't mean to play it again, okay. I have, so I'm at the end of my talk.)
+
+
+
+Will @ 11:10:48
+
+Translation (简体中文): 所以我认为我们能做的是对一些问题的开放。我这里有幻灯片。
+
+Recognition (英语): (So I think what we can do is open up for some questions. I have slides here about.)
+
+
+
+Will @ 11:10:54
+
+Translation (简体中文): 长度。所以, 如果你有兴趣, 你可以拍一张照片, 也分享出关于不同事物的甲板链接。
+
+Recognition (英语): (Length. So if you're interested you can take a picture of this also share out the deck links about the different things.)
+
+
+
+Will @ 11:11:00
+
+Translation (简体中文): 说到我丢了谁的声音, 我丢了这个东西。是的。
+
+Recognition (英语): (Talked about who did I lose sound like it, I lost this thing. Yeah.)
+
+
+
+Will @ 11:11:09
+
+Translation (简体中文): 关掉它是如何低电池它说电池没电其实你在那里, 好吗。这不是更好的。
+
+Recognition (英语): (Turn it off how is low battery it says dead battery actually there you are, okay. This is not have it better.)
+
+
+
+Will @ 11:11:17
+
+Translation (简体中文): 所以, 可以随意地拍一张照片, 就像正在谈论的定制演讲不是这里的陪审团服务一样。这就是我们过去的适应。
+
+Recognition (英语): (So feel free to take a picture of this by the way that custom speech that was talking about this isn't a jury service here. That's what we used to adapt.)
+
+
+
+Will @ 11:11:18
+
+Translation (简体中文): 他的声音
+
+Recognition (英语): (His voice.)
+
+
+
+Will @ 11:11:25
+
+Translation (简体中文): 我和然后如果你有兴趣给他们的推荐信。这些是关于我们今天谈到的话题的论文。
+
+Recognition (英语): (I and then if you're interested to their references. These are papers on the topics that we talked about that I talked about today.)
+
+
+
+Will @ 11:11:32
+
+Translation (简体中文): 我没有进入很多细节在这里这些将进入非常技术性的细节一篇论文, 我确实想指出。
+
+Recognition (英语): (I didn't go into a lot of details here these will go into very technical details one paper, I do want to point out.)
+
+
+
+Will @ 11:11:39
+
+Translation (简体中文): 这里的这篇论文其实是一篇非常有趣的论文。这是一篇关于真相的论文。
+
+Recognition (英语): (This paper here is actually a really interesting paper. This is a paper about truetext.)
+
+
+
+Will @ 11:11:47
+
+Translation (简体中文): 因此, 哈桑 2004 14 论文谈到了真相图文并茂背后的模型, 以及它是如何建立的。
+
+Recognition (英语): (So this Hassan 2004 14 paper talks about the models behind truetext and how that was built.)
+
+
+
+Will @ 11:11:59
+
+Translation (简体中文): 我认为这是一个非常有趣的论文, 非常有趣的话题, 大多数人都不谈论, 好吗。然后有更多的参考, 如果你有兴趣。谢谢。
+
+Recognition (英语): (Which I think is a very interesting paper very interesting topic that most people don't talk about, okay. And then there's more references if you're interested. Thank you very much.)
+
+
+
+Will @ 11:12:21
+
+Translation (简体中文): 我可以在这里做两件事吗？我们可以和迈克一起去, 或者如果你想的话, 我可以打开问题答案, 你可以在手机里谈谈你想这么做。
+
+Recognition (英语): (Do I can do two things here we can go around with a Mike or if you want I can open up the question answer and you can talk into your phone you want to do that.)
+
+
+
+Will @ 11:12:27
+
+Translation (简体中文): 好。只是为什么不, 但没有愚蠢的东西。
+
+Recognition (英语): (Okay. Just why not but no silly stuff.)
+
+
+
+Will @ 11:12:43
+
+Translation (简体中文): 好。现在, 你可以沟通你的, 好吧。所以举起你的手, 然后因为如果你们都问一次, 那就行不通了。
+
+Recognition (英语): (Okay. Now, you can communicate your, okay. So raise your hand and then because if you all ask it once then it won't work.)
+
+
+
+Will @ 11:12:44
+
+Translation (简体中文): 是的。
+
+Recognition (英语): (Yes.)
+
+
+
+Will @ 11:12:52
+
+Translation (简体中文): 你可以在手机里说话, 只要按一下按钮就可以说话了。
+
+Recognition (英语): (You can talk in your phone just press the button and talk.)
+
+
+
+Andy67 @ 11:12:57
+
+Recognition (简体中文): 我非常感谢您的介绍.
+
+
+
+陈思行 @ 11:13:00
+
+Translation (简体中文): 
+
+Recognition (繁体中文): (undefined)
+
+
+
+Will @ 11:13:06
+
+Translation (简体中文): 谢谢你, 谢谢。
+
+Recognition (英语): (Thank you, thank.)
+
+
+
+Andy67 @ 11:13:09
+
+Recognition (简体中文): 我非常喜欢微软是我.
+
+
+
+Will @ 11:13:16
+
+Translation (简体中文): 我也是。
+
+Recognition (英语): (Me too.)
+
+
+
+Andy67 @ 11:13:23
+
+Recognition (简体中文): 首先我表达我的敬意对连接微软.
+
+
+
+文劼 @ 11:13:24
+
+Recognition (简体中文): 会用到卷积神经网络吗
+
+
+
+Will @ 11:13:30
+
+Translation (简体中文): 非常欢迎你。
+
+Recognition (英语): (You're very welcome.)
+
+
+
+Andy67 @ 11:13:34
+
+Recognition (简体中文): 我看了很多有关微软的书.
+
+
+
+Andy67 @ 11:13:47
+
+Recognition (简体中文): 这就像关于微软ceo萨夏纳德拉写的黑土refresh.
+
+
+
+Andy67 @ 11:13:50
+
+Recognition (简体中文): 然后这边.
+
+
+
+JIANG97 @ 11:13:50
+
+Recognition (简体中文): 你今天应该很累.
+
+
+
+Will @ 11:13:50
+
+Translation (简体中文): 好。它没有得到他的名字。
+
+Recognition (英语): (Okay. It didn't get his name.)
+
+
+
+JIANG97 @ 11:13:55
+
+Recognition (简体中文): 一定劝带回来会更加规范的化身.
+
+
+
+Andy67 @ 11:13:56
+
+Recognition (简体中文): 一点儿点儿对不对yes?
+
+
+
+JIANG97 @ 11:13:57
+
+Recognition (简体中文): 我感觉.
+
+
+
+Will @ 11:13:58
+
+Translation (简体中文): 它没有正确地抄写。但你有问题吗？好。
+
+Recognition (英语): (It didn't transcribed that correctly. But did you have a question? Okay.)
+
+
+
+ano @ 11:14:10
+
+Recognition (简体中文): 啊哈哈哈哈哈哈
+
+
+
+Andy67 @ 11:14:13
+
+Recognition (简体中文): 这个问题可能不是关于有关技术的,而是有关微软的文化,我想问一下,微软在这几年发生巨大的改变,成为世界上市值最高. 的公司,我想问一下.
+
+
+
+Andy67 @ 11:14:16
+
+Recognition (简体中文): 您对于微软文化的理解谢谢.
+
+
+
+Andy67 @ 11:14:22
+
+Recognition (简体中文): 雅马的会选择microsoft人.
+
+
+
+JIANG97 @ 11:14:23
+
+Recognition (简体中文): 比尔蛮好的就是会损失microsoft project.
+
+
+
+Will @ 11:14:24
+
+Translation (简体中文): 是的。我的, 这是一个非常好的问题。因此, 微软文化在过去几年里发生了很大的变化。
+
+Recognition (英语): (Yeah. My that's a very good question. So Microsoft culture has changed a lot in the past few years.)
+
+
+
+Andy67 @ 11:14:26
+
+Recognition (简体中文): 开始对我知道汽油.
+
+
+
+JIANG97 @ 11:14:27
+
+Recognition (简体中文): 去日本宝宝了,他最后早就去了.
+
+
+
+Will @ 11:14:30
+
+Translation (简体中文): 这在很大程度上与你提到的我们的新首席执行官有关, 也与包容文化有关。
+
+Recognition (英语): (A lot of it has to do with our new CEO who you mentioned and also a culture of inclusion.)
+
+
+
+JIANG97 @ 11:14:38
+
+Recognition (简体中文): 告诉他投球珍珠疹,是吧,那个狗吃了它识别率还没还没还没什么事.
+
+
+
+Will @ 11:14:38
+
+Translation (简体中文): 而文化, 很难描述我是如何做了近 1 2年的微软的。
+
+Recognition (英语): (And culture of it's hard to describe how I've been Microsoft for almost 12 years.)
+
+
+
+JIANG97 @ 11:14:42
+
+Recognition (简体中文): 缺点就是他朋友的朋友.
+
+
+
+Will @ 11:14:47
+
+Translation (简体中文): 而在过去的几年里, 它发生了巨大的变化, 出现了重大的文化变化。这里一直是个很好的工作场所。如果我不喜欢, 我就不会呆在那里了。
+
+Recognition (英语): (And it's changed dramatically in the past few years, there's a been a significant culture change. It's always been a great place to work. I wouldn't have stayed there if I didn't like it.)
+
+
+
+Will @ 11:14:53
+
+Translation (简体中文): 我觉得情况好多了。我现在真正喜欢微软的一点是。
+
+Recognition (英语): (I think it's become a lot better. One of the things I really like about Microsoft now is.)
+
+
+
+Will @ 11:14:58
+
+Translation (简体中文): 这是一种包容的文化, 我们在无障碍方面做了大量的工作。现在。所以我在这里做的工作。
+
+Recognition (英语): (This is a culture of inclusion, we do a lot of work in accessibility. And now. So the work that I'm doing here.)
+
+
+
+Will @ 11:15:08
+
+Translation (简体中文): 你已经看到了无障碍是我们公司致力于向任何人提供技术的支柱之一。
+
+Recognition (英语): (You've seen around accessibility is one of the pillars of our company working on making technology available to anybody.)
+
+
+
+Will @ 11:15:09
+
+Translation (简体中文): 问得好。
+
+Recognition (英语): (Good question.)
+
+
+
+Will @ 11:15:14
+
+Translation (简体中文): 我只是随便挑。
+
+Recognition (英语): (I'm just going to pick randomly.)
+
+
+
+Will @ 11:15:25
+
+Translation (简体中文): 我不是说那些成绩单。
+
+Recognition (英语): (I'm not saying that transcripts.)
+
+
+
+Will @ 11:15:36
+
+Translation (简体中文): 如果你运行你的 pci 可能不活跃, 如果不是你可以只使用麦克风, 用英语问。
+
+Recognition (英语): (It might be if you run your pci might not be active if not you can just use a microphone and ask in English.)
+
+
+
+Will @ 11:15:38
+
+Translation (简体中文): 是啊, 我们有麦克风吗？
+
+Recognition (英语): (Yeah, do we have a mic for?)
+
+
+
+Will @ 11:15:44
+
+Translation (简体中文): 可能是有人死了或者, 好吧。
+
+Recognition (英语): (It might be someone dead or, okay.)
+
+
+
+Will @ 11:15:54
+
+Translation (简体中文): 是的。有时, 如果浏览器没有在一点不启用麦克风, 你不能通过浏览器交谈。
+
+Recognition (英语): (Yes. Sometimes if the browser hasn't been in a bit doesn't enable the microphone you can't talk through the browser.)
+
+
+
+Will @ 11:15:55
+
+Translation (简体中文): 这是浏览器的问题。
+
+Recognition (英语): (It's a problem with a browser.)
+
+
+
+ano @ 11:16:20
+
+Recognition (简体中文): aaaaaaha
+
+
+
+Will @ 11:16:20
+
+Translation (简体中文): 我所发生的是, 它正在做的是什么, 它正在做的是我说的, 你会看到有一个不流畅出现。
+
+Recognition (英语): (I what happens is that part of this truetext module what it's doing is I'm talking, you'll see that there's a disfluency that appears.)
+
+
+
+Will @ 11:16:30
+
+Translation (简体中文): 你看到消失了我, 那是不稳定消失了吗？很多时候。
+
+Recognition (英语): (Do you see that disappeared that I that was it disfluencies that goes away? So often times.)
+
+
+
+Will @ 11:16:39
+
+Translation (简体中文): 我也会做的, 以及产生假设输出开始, 然后我们将回去和清理该输出有时, 因为上下文将变得更多。
+
+Recognition (英语): (I will do as well generate hypothesize output initially and then we'll go back and clean up that output sometimes because the context will become more.)
+
+
+
+Will @ 11:16:45
+
+Translation (简体中文): 在其他时间所说的话的背景下, 它变得更加自信, 我们都能注意到一些不一致之处。
+
+Recognition (英语): (It become more confident in the context of what's being said other times we can do all notice some disfluencies.)
+
+
+
+Will @ 11:16:51
+
+Translation (简体中文): 所以我们有一个叫做部分输出的东西。因此, 将生成这些部分输出, 然后清理这些。
+
+Recognition (英语): (So we have this thing called partial output. So will generate these partial output and then clean those up.)
+
+
+
+ano @ 11:17:06
+
+Recognition (简体中文): yepeeeee
+
+
+
+Will @ 11:17:08
+
+Translation (简体中文): 当我走的时候, 现在这在另一种语言中有时会造成一些干扰。所以你有一个选择, 在那里你可以关闭部分, 有一个你可以得到最终的输出。所以当我说完任何话语后, 都会给你最后的翻译。
+
+Recognition (英语): (As I go, now this can be somewhat sometimes disruptive in the other language. So you have an option there where you can turn off the partials, there's a where you can just get the final output. So when I'm done with any utterance, it will just give you that final translation.)
+
+
+
+Andy67 @ 11:17:12
+
+Recognition (简体中文): baby shark dododo 
+
+
+
+Will @ 11:17:14
+
+Translation (简体中文): 在中文。让我们说, 这其实更容易阅读, 唯一的问题是你必须推迟。
+
+Recognition (英语): (In Chinese. Let's say and that's actually easier to read the only problem with that is you have to delay.)
+
+
+
+Will @ 11:17:20
+
+Translation (简体中文): 所以我更喜欢的是我在这个电话上做的事情。所以我喜欢的时候会说一些德语。
+
+Recognition (英语): (So what I prefer is what I'm doing on this phone. So I speak some German when I prefer.)
+
+
+
+RtheT10 @ 11:17:26
+
+Translation (简体中文): 好吧, 一个。
+
+Recognition (英语): (Okay, an.)
+
+
+
+Dawn @ 11:17:28
+
+Translation (简体中文): 社会。
+
+Recognition (英语): (Socially.)
+
+
+
+Will @ 11:17:29
+
+Translation (简体中文): 是我将有它的语言。这是在说。用我的语言。所以我得到了这两者和我喜欢的东西。
+
+Recognition (英语): (Is I will have it in the language. That's being spoken. And in my language. So I get both and what I like about that.)
+
+
+
+Will @ 11:17:37
+
+Translation (简体中文): 如果我要去听一个会说德语的人, 让我们说, 我不知道他们的话, 用德语都去。
+
+Recognition (英语): (If I'm going to a lecture someone speaking German, let's say, I don't their words that i don't know, in German all go.)
+
+
+
+Will @ 11:17:42
+
+Translation (简体中文): 是的, 他就是这么说的, 这对我很有帮助, 因为当有人说那个词的时候, 我学习的是第二语言。
+
+Recognition (英语): (Yeah, that's what he said, it's helpful to me because I learn the language two when someone says that word.)
+
+
+
+Will @ 11:17:47
+
+Translation (简体中文): 不, 我可以说那个词是什么。这就是这个词的意思, 它在这种情况下也非常有用。
+
+Recognition (英语): (No, I can say what is that word. That's what that word means it's very useful in that context too.)
+
+
+
+Will @ 11:17:49
+
+Translation (简体中文): 用于语言学习。
+
+Recognition (英语): (For language learning.)
+
+
+
+Will @ 11:17:53
+
+Translation (简体中文): 我希望能回答你的问题。好吧, 其他问题。
+
+Recognition (英语): (I hope that answer your question. Okay, other questions.)
+
+
+
+Will @ 11:18:02
+
+Translation (简体中文): 话筒在哪里？
+
+Recognition (英语): (Where's the microphone?)
+
+
+
+Will @ 11:18:04
+
+Translation (简体中文): 是的。
+
+Recognition (英语): (Yeah.)
+
+
+
+Dawn @ 11:18:12
+
+Recognition (简体中文): 我妈.
+
+
+
+Will @ 11:18:14
+
+Translation (简体中文): 是的。
+
+Recognition (英语): (Yeah.)
+
+
+
+Will @ 11:18:16
+
+Translation (简体中文): 好吧。
+
+Recognition (英语): (All right.)
+
+
+
+Will @ 11:18:21
+
+Translation (简体中文): 如何确保这一点？
+
+Recognition (英语): (How to make sure that?)
+
+
+
+Will @ 11:18:27
+
+Translation (简体中文): 它在这里捡起来, 我继续走。
+
+Recognition (英语): (It's picking up here I go ahead.)
+
+
+
+Dawn @ 11:18:47
+
+Recognition (简体中文): 他的意思是如何避免关键错误.
+
+
+
+Will @ 11:19:10
+
+Translation (简体中文): 我的意思是, 这是一个错误发誓, 在谈话中有一个非常重要的术语, 我们如何确保这不会被错过。
+
+Recognition (英语): (I mean by this is a mistake swear there's a term that's really important in the conversation, how do we make sure that doesn't get missed.)
+
+
+
+Will @ 11:19:17
+
+Translation (简体中文): 很多时候, 语言模型对此有帮助。答案是肯定的。所以, 当有人说话的时候, 他给出的背景越多。
+
+Recognition (英语): (A lot of times the language models help with this. Of course. So the more context that someone gives when he's talking.)
+
+
+
+Will @ 11:19:24
+
+Translation (简体中文): 通常情况下, 这种背景会有助于填补空白, 并说这也是定制在这里帮助的预期词。
+
+Recognition (英语): (Often times that context will help filling the gaps and say this was the intended word the customization helps here too.)
+
+
+
+nnn @ 11:19:33
+
+Recognition (简体中文): 一开始发过来推进来发送完后解决上网本netbook.
+
+
+
+Will @ 11:19:34
+
+Translation (简体中文): 这也是定制在大学环境中被如此使用的原因之一, 因为当我教生物课的时候。这在一定程度上是可以预测的术语是什么。
+
+Recognition (英语): (This is one of the reasons that customization is used so much in University setting is because when I'm teaching a class on biology. That's somewhat predictable what the terminology is the time.)
+
+
+
+nnn @ 11:19:39
+
+Recognition (简体中文): 问你.
+
+
+
+Will @ 11:19:40
+
+Translation (简体中文): 说到这里, 在给语音识别输出打分时, 可以依靠这种语言模式。
+
+Recognition (英语): (Talk about and it can rely on that language model when it's scoring the output from the speech recognition.)
+
+
+
+Will @ 11:19:46
+
+Translation (简体中文): 说这是预期的输出, 尽管我认为我听到了一些不同的东西。所以这些关键的术语。
+
+Recognition (英语): (Say this was the intended output even though I thought I heard something different. So these critical terms.)
+
+
+
+nnn @ 11:19:50
+
+Recognition (简体中文): 就是在.
+
+
+
+Will @ 11:19:56
+
+Translation (简体中文): 通常情况下, 解决正确, 而不仅仅是在语音识别与他的自定义声学模型。这是建立起来的, 但也是在得分上。
+
+Recognition (英语): (Oftentimes get resolved correctly, not just in the speech recognition with his custom acoustic model. That's built but also in the scoring.)
+
+
+
+Will @ 11:19:59
+
+Translation (简体中文): 针对语言模型。
+
+Recognition (英语): (Against the language model.)
+
+
+
+Will @ 11:20:04
+
+Translation (简体中文): 还有一个问题。我没有回答第二个问题。对不起。
+
+Recognition (英语): (And there was another question. I didn't answer the second question. Sorry.)
+
+
+
+G @ 11:20:10
+
+Recognition (简体中文): 口音不像本地人
+
+
+
+Dawn @ 11:20:17
+
+Recognition (简体中文): 如何避免医院的二义性.
+
+
+
+Will @ 11:20:32
+
+Translation (简体中文): 歧义, 但歧义是一个大问题歧义是单语语境中的一个问题。
+
+Recognition (英语): (The ambiguity, but ambiguity is big problem ambiguities a problem in a monolingual context.)
+
+
+
+Will @ 11:20:36
+
+Translation (简体中文): 所以你会看到它摆脱了一些我摆脱了一些混乱的东西。
+
+Recognition (英语): (So you're going to see it get rid of something I got rid of some of the disfluencies there.)
+
+
+
+Will @ 11:20:48
+
+Translation (简体中文): 在单语语境中, 国王的语境再次比什么都重要。这是一个语言模型。
+
+Recognition (英语): (The in a monolingual context is king context matters more than anything again. It's a language model.)
+
+
+
+Will @ 11:20:57
+
+Translation (简体中文): 如果你孤立地说一句话, 这有助于区分打算说什么术语。它没有任何背景可以依靠它, 只会想出最多。
+
+Recognition (英语): (That helps it differentiate what term was intended to be said, if you say a word in isolation. It doesn't have any context to be able to rely on it will just come up with the most.)
+
+
+
+Will @ 11:21:09
+
+Translation (简体中文): 普通的词听起来像那样。但如果你提供了一个大的上下文, 它将做得更好。现在, 在双语设置或多语言设置中, 它变得更加困难。
+
+Recognition (英语): (Common word that sounds like that. But if you provided a large context it will do much better. Now in the bilingual setting or multilingual setting it becomes harder.)
+
+
+
+Will @ 11:21:18
+
+Translation (简体中文): 有语言模型。还有。所以, 如果我们在源语言中得到正确的单词, 如果是这样, 如果我们没有得到正确的单词。
+
+Recognition (英语): (There are language models. There also. So if we get the right word in the source language if so if we don't get the right word.)
+
+
+
+Will @ 11:21:27
+
+Translation (简体中文): 所有的希望都破灭了, 最终会得到错误的翻译。但是, 如果我们得到正确的词, 围绕这个词的适当背景。
+
+Recognition (英语): (All hope is lost will end up getting the wrong translation. But if we get the right word with appropriate context around that word.)
+
+
+
+Will @ 11:21:38
+
+Translation (简体中文): 已经过去了, 翻译系统将使用该上下文来加强应该再次输出的输出。
+
+Recognition (英语): (It's past the translation system will use that context to reinforce the output that should be output again.)
+
+
+
+Will @ 11:21:44
+
+Translation (简体中文): 整个语言建模的方法, 也在翻译模型中。这样说有道理吗？
+
+Recognition (英语): (Throughout language modeling a approach, but also within the translation model as well. Does that make sense?)
+
+
+
+Shaik @ 11:21:45
+
+Recognition (简体中文): 微软6666
+
+
+
+Dawn @ 11:21:46
+
+Recognition (简体中文): 使用概率吗?
+
+
+
+Will @ 11:21:55
+
+Translation (简体中文): 这是一个非常复杂的问题, 但它往往做得相当好, 我认为这里关键的是背景, 更多的上下文给它。
+
+Recognition (英语): (It's a very complex problem, but it tends to do pretty well, and I think the critical thing here is context the more context to give it.)
+
+
+
+Will @ 11:21:56
+
+Translation (简体中文): 这样做就越好。
+
+Recognition (英语): (The better it will do.)
+
+
+
+Will @ 11:22:00
+
+Translation (简体中文): 好。
+
+Recognition (英语): (Okay.)
+
+
+
+Chenxuan Ji @ 11:22:03
+
+Recognition (简体中文): 可以用胶带.
+
+
+
+G @ 11:22:27
+
+Recognition (简体中文): .
+
+
+
+ano @ 11:22:40
+
+Recognition (简体中文): 微软大法好
+
+
+
+Will @ 11:22:40
+
+Translation (简体中文): 利率会根据个人的口音和所有这些其他因素而有很大的差异。
+
+Recognition (英语): (Rate will vary a lot depending on the accent of the individual and all of these other factors.)
+
+
+
+Will @ 11:22:47
+
+Translation (简体中文): 所以我有一种标准的美国口音, 模特们真的有吗？好吧, 在标准的美国口音。
+
+Recognition (英语): (So I have it kind of a standard American accent and the models do really? Well on the standard american accent.)
+
+
+
+Will @ 11:22:55
+
+Translation (简体中文): 有中国口音的人对经常说普通话的人使用这种语言对那个人来说不会有那么好的效果。
+
+Recognition (英语): (The man someone who has a Chinese accent is using this to someone who speaks Mandarin regularly it won't do as well for that person.)
+
+
+
+Shaik @ 11:22:58
+
+Recognition (简体中文): 微软强诶
+
+
+
+LXX @ 11:23:07
+
+Recognition (简体中文): 日常工作中，会涉及很多座谈会或会议记录工作 1、是否可以根据会议主题提前导入相关术语包？ 这样利用Microsoft translator做记录时将更加有效 2、如果主要的演讲者有中文方言口音，是否可以将他之前的演讲录音和记录进行机器学习？
+
+
+
+Will @ 11:23:10
+
+Translation (简体中文): 除了它做得相当不错, 因为我们有供应商和发言者的模型的内容。因此, 说普通话的人都会说英语, 然后数据就会进入我们的模型。因此, 模型的改进。
+
+Recognition (英语): (Except it does pretty well because we have content in the models of vendor and speakers. So people who speak Mandarin natively speak English that data is then goes into our models. So the improvement of the models.)
+
+
+
+Will @ 11:23:16
+
+Translation (简体中文): 我们在各种扬声器上能获得的数据越多, 这些扬声器就会做得更好吗？
+
+Recognition (英语): (Is the more data we can have with a variety of speakers the better will do on those speakers?)
+
+
+
+Will @ 11:23:24
+
+Translation (简体中文): 所以它实际上对一个有普通话口音的人做得相当好, 它不会像一个有广东口音的人那样做得很好, 因为口音不同。
+
+Recognition (英语): (So it actually does pretty well with someone who has a Mandarin accent it won't do as well as someone who has a Cantonese accent because the accents different.)
+
+
+
+Will @ 11:23:31
+
+Translation (简体中文): 而且我们没有很多广东语讲者的内容在我们的模式讲英语。我看过这一切真的上演了。
+
+Recognition (英语): (And we don't have a lot of content for Cantonese Speakers Speak English in our model. I've seen this actually play out.)
+
+
+
+Will @ 11:23:37
+
+Translation (简体中文): 例如, 香港城市大学的人有浓重的粤语口音。这对他来说不行。
+
+Recognition (英语): (Someone who's from City University of Hong Kong, for instance has a strong Cantonese accent. It doesn't do, well for him.)
+
+
+
+Will @ 11:23:43
+
+Translation (简体中文): 一个来自清代的人, 而大学里有浓重的普通话口音, 其实对他做得相当不错。
+
+Recognition (英语): (Someone from Qing while University who has a strong Mandarin accent it actually does pretty well for him.)
+
+
+
+Will @ 11:23:57
+
+Translation (简体中文): 所以棒球得到了改善, 但如果你有一个人说话带着口音, 它就是认不出来。
+
+Recognition (英语): (So the baseballs are improved, but if you have someone who speaks with an accent that it just doesn't recognize.)
+
+
+
+Will @ 11:24:05
+
+Translation (简体中文): 你可以定制给那个人喜欢, 我们用聋哑人的声音做了。这也是提供那个人的样本和文字记录的过程。
+
+Recognition (英语): (You can customize to that person like, we did with the deaf voice. It's the same process providing samples of that person speaking with transcripts.)
+
+
+
+Will @ 11:24:12
+
+Translation (简体中文): 它说, 它将适应那个人的声音, 我们已经成功地做到了这一点, 因为说话者的口音非常明显。
+
+Recognition (英语): (It says it will then adapt to that person's voice and we've done that successfully for speakers have very pronounced accent.)
+
+
+
+Dawn @ 11:24:16
+
+Recognition (简体中文): 此处应该有掌声.
+
+
+
+Will @ 11:24:21
+
+Translation (简体中文): 对不起, 有很多问题。
+
+Recognition (英语): (Sorry, so many questions.)
+
+
+
+ano @ 11:24:28
+
+Recognition (简体中文): *鼓掌*
+
+
+
+Will @ 11:24:42
+
+Translation (简体中文): 在是不同的技术。它仍然会使用仍然使用神经网络。可能是为了解决这个信号
+
+Recognition (英语): (In the is a different technology. It's still going to use still use neural networks. Probably to resolve the signal.)
+
+
+
+Will @ 11:24:49
+
+Translation (简体中文): 但在这个信号中提取的功能, 实际上是提供的, 并不是视频信号中的声学提供。
+
+Recognition (英语): (But the features that are extracted in this signal, that's actually being provided is not acoustic providing in a video signal.)
+
+
+
+Will @ 11:24:53
+
+Translation (简体中文): 因此, 你必须从视频信号中进行某种特征提取, 才能解释这一点。
+
+Recognition (英语): (So you have to do some sort of feature extraction from that video signal to be able to interpret that.)
+
+
+
+Will @ 11:25:00
+
+Translation (简体中文): 我们目前还没有在研究这个问题。但在这一领域正在开展工作。我认为这是一个可以解决的问题。
+
+Recognition (英语): (We're not currently working on that. But there is work being done in that space. I think it's a solvable problem.)
+
+
+
+Will @ 11:25:11
+
+Translation (简体中文): 现在因为技术是有的。它已经赶上了, 但手语解释的真正问题是数据量。
+
+Recognition (英语): (Now because the technology is there. It's caught up but the prog real problem with sign language interpretation is the amount of data.)
+
+
+
+ALICE @ 11:25:15
+
+Recognition (简体中文): 单词测试：暴力，模拟，二分，图论，动态规划，树形DP，状压DP，轮廓线DP，线段树，平衡树，
+
+
+
+Will @ 11:25:20
+
+Translation (简体中文): 它是可用的, 你需要让人们签署视频信号与文字记录。所以第二个问题是笔录。
+
+Recognition (英语): (It's available you need to have people signing video signal with transcripts. So the second problem is the transcripts.)
+
+
+
+Will @ 11:25:27
+
+Translation (简体中文): 对于世界上大多数手语来说, 中国手语美国手语有什么你有不一致的。
+
+Recognition (英语): (For most sign languages in the world Chinese Sign Language American sign language what have you there are not consistent.)
+
+
+
+Will @ 11:25:38
+
+Translation (简体中文): 这些语言的转录系统。所以这其实是一个错误, 我觉得用英语做美国手语, 或者用汉语做汉语手语。
+
+Recognition (英语): (Transcription systems for those languages. So it's actually a mistake, I feel to use English for American sign language or do use Chinese for Chinese sign language.)
+
+
+
+Will @ 11:25:45
+
+Translation (简体中文): 因为那些语言是不同的, 词序是不同的词汇是不同的, 你说话的方式是不同的。
+
+Recognition (英语): (Because those languages are different the word orders are different vocabularies are different the way you say things are different.)
+
+
+
+Will @ 11:25:54
+
+Translation (简体中文): 所以你基本上是在识别任务和翻译任务中混淆。因此, 有两个问题需要解决, 我们必须获得足够的数据。
+
+Recognition (英语): (So you're basically conflating both at recognition task with a translation task. So there are two problems that have to be solved we have to get enough data.)
+
+
+
+Will @ 11:26:00
+
+Translation (简体中文): 我们必须有正确的转录系统, 才能让语言发挥作用, 这就是两个拦路虎。
+
+Recognition (英语): (And we have to have the right transcription system for the language for this to work, and that's the two blocking.)
+
+
+
+Will @ 11:26:06
+
+Translation (简体中文): 目前有手语翻译的医生, 我给你举一个例子, 说明为什么你需要单独的语言。
+
+Recognition (英语): (Doctors with sign language interpretation currently, I'll give you one example of why you need to have a separate.)
+
+
+
+Will @ 11:26:14
+
+Translation (简体中文): 例如, 手语的转录系统在很大程度上与事物的表达方式有关。
+
+Recognition (英语): (Transcription system for sign language a lot of it has to do with the way things are expressed, for instance.)
+
+
+
+Will @ 11:26:26
+
+Translation (简体中文): 在英语中的代名词他, 它或你是我们知道膝盖和爸爸在这些术语。
+
+Recognition (英语): (Pronouns in a in English he, it or you are we know knee and pa in these terms.)
+
+
+
+Will @ 11:26:36
+
+Translation (简体中文): 普通话他们没有手语的这样的术语。所以, 如果我真的想说一个人, 我会说出这个人的名字。
+
+Recognition (英语): (Mandarin they don't have terms like that in sign language. So if I want to actually say a person I will say the person's name.)
+
+
+
+Will @ 11:26:42
+
+Translation (简体中文): 也许我在科学上说我的名字或者我的名字, 然后我就会指出。
+
+Recognition (英语): (Maybe I say my name in science or my name and then I'll point.)
+
+
+
+Will @ 11:26:49
+
+Translation (简体中文): 我指的是一个对我或那个特定的人来说成为代名词的地方。我要谈谈你。
+
+Recognition (英语): (That I'm pointing to a place that becomes the pronoun for me or that particular person. I'm going to talk about you.)
+
+
+
+Will @ 11:26:56
+
+Translation (简体中文): 然后我就会指出那个人会说, 所以每当, 他都会说一些话。
+
+Recognition (英语): (And so then I'll point that person will say, so whenever, he said something.)
+
+
+
+Shaik @ 11:26:56
+
+Recognition (简体中文): 这个软件会越来越完善的
+
+
+
+Will @ 11:27:01
+
+Translation (简体中文): 所以我就说, 他和他谈过。你看到了吗？
+
+Recognition (英语): (So I just said, he talked to him. Do you see?)
+
+
+
+Will @ 11:27:11
+
+Translation (简体中文): 在。那么那些成为质子的人, 我们如何解决这些问题呢？我们不能把他 (她) 分配给我, 这行不通, 因为你可以有 1 0个。
+
+Recognition (英语): (In. So those become the protons, how do we resolve those? We can't assign he or she to me it doesn't work that because you could have 10.)
+
+
+
+Will @ 11:27:18
+
+Translation (简体中文): 代名词是行不通的, 它使它成为一种语言, 你必须有一个转录系统, 可以只代表这个例子。
+
+Recognition (英语): (Pronouns doesn't work and make it a language you have to have a transcription system that can represent just that example.)
+
+
+
+Will @ 11:27:20
+
+Translation (简体中文): 这方面的例子还有很多。
+
+Recognition (英语): (There's more examples of that.)
+
+
+
+Thirra @ 11:27:29
+
+Recognition (简体中文): 使用这个translator的会议交流似乎有一点不礼貌，我的意思是，没有眼神以及肢体语言的交流，交流的双方不能知道对方的实际情感，我想问，你们有没有考虑过加入面对面视频交流的功能，如果有，为什么不加入？
+
+
+
+ano @ 11:27:33
+
+Recognition (简体中文): test: 苟利国家生死以
+
+
+
+G @ 11:27:48
+
+Recognition (简体中文): -1s
+
+
+
+Mack Wang @ 11:27:57
+
+Translation (简体中文): 岂因祸福避趋之
+
+Recognition (英语): (岂因祸福避趋之)
+
+
+
+Shaik @ 11:28:18
+
+Recognition (简体中文): 学而时习之，不亦说乎
+
+
+
+oof @ 11:28:20
+
+Recognition (简体中文): 秀儿是你吗
+
+
+
+Dawn @ 11:28:22
+
+Recognition (简体中文): 没有数据量会很大.
+
+
+
+G @ 11:28:26
+
+Recognition (简体中文): 国家子弹滞销
+
+
+
+Will @ 11:28:49
+
+Translation (简体中文): 因此, 在多模型翻译中实际上有工作要做, 它与手语问题有一点联系。
+
+Recognition (英语): (Gen. And so there is actually work being done in multi model translation it ties back a little bit to the sign language question.)
+
+
+
+Will @ 11:28:56
+
+Translation (简体中文): 因为实际上, 当我们和某人交谈很多次时, 他们用肢体语言的暗示告诉我们这一点。
+
+Recognition (英语): (Because actually it turns out when we talk to someone a lot of times their cues in the body language that tell us that.)
+
+
+
+Will @ 11:29:02
+
+Translation (简体中文): 这有助于我们确定将要说什么, 所以这方面的一个很好的例子来自心理语言研究。
+
+Recognition (英语): (That help us to determine what's going to be said, so a good example of this is from psycho linguistic research.)
+
+
+
+Will @ 11:29:09
+
+Translation (简体中文): 一个很好的例子是, 我正在努力想这个例子, 我只是和我们谈过。
+
+Recognition (英语): (A good example is I'm trying to think of the example, I just talked to us.)
+
+
+
+Shaik @ 11:29:15
+
+Recognition (简体中文): 舞幽壑之潜蛟，泣孤舟之嫠妇
+
+
+
+Will @ 11:29:18
+
+Translation (简体中文): 在我们所说的肢体语言中, 循环语言左右很多次, 这不仅仅是阅读嘴唇可以有所帮助。
+
+Recognition (英语): (Cycle language or so a lot of times in the body language that we have that we say, it's not just like reading the lips can help.)
+
+
+
+Will @ 11:29:28
+
+Translation (简体中文): 但语言也经常, 当我们要说一些新词的东西会有一定的肢体语言, 比如, 这是一个你不会知道的词。
+
+Recognition (英语): (But also the languages oftentimes, when we're going to say something that's a new word will have a certain body language like, this is a word that you won't know.)
+
+
+
+Will @ 11:29:34
+
+Translation (简体中文): 它将通过我们的肢体语言来表达这一点。如果我们用这些作为模型中的特征, 说有一个词很不寻常。
+
+Recognition (英语): (It will express that through our body language. If we use those as features in the model to say there's a word that's unusual.)
+
+
+
+Will @ 11:29:35
+
+Translation (简体中文): 它来了。
+
+Recognition (英语): (It's coming.)
+
+
+
+Will @ 11:29:41
+
+Translation (简体中文): 所以我们不想看我们正常的语言模型会说什么, 然后再看更模糊的。
+
+Recognition (英语): (So we don't want to look at what our normal language model would say we want to actually then look at more obscured.)
+
+
+
+Will @ 11:29:47
+
+Translation (简体中文): 术语或任何东西, 然后这可能有助于通知模型。所以, 是的, 我们可以使用这种信息。
+
+Recognition (英语): (Terms or whatever, then that could help inform the model. So, yes, we can use that kind of information.)
+
+
+
+Will @ 11:29:52
+
+Translation (简体中文): 这在很大程度上仍然是一个新生的研究领域。
+
+Recognition (英语): (That's still very much a nascent research area.)
+
+
+
+Will @ 11:30:26
+
+Translation (简体中文): 认识到添加模型中的内容有助于提高模型的质量, 但您也可以添加。
+
+Recognition (英语): (Recognize adding that content in the model helps improve the quality of the model, but you can also add.)
+
+
+
+Will @ 11:30:33
+
+Translation (简体中文): 在那个特定的人之后。所以我给你举一个例子, 我去年在新加坡。
+
+Recognition (英语): (After that particular individual. So I'll give you an example, I was in a in Singapore last year.)
+
+
+
+Will @ 11:30:34
+
+Translation (简体中文): 在一个会议上。
+
+Recognition (英语): (At a conference.)
+
+
+
+ALICE @ 11:30:36
+
+Recognition (简体中文): 单词测试：数论，同余，取模，裴蜀定理，中国剩余定理，欧几里得算，莫比乌斯反演，快速傅里叶变换，快速数论变换，快速沃尔什变换
+
+
+
+Will @ 11:30:40
+
+Translation (简体中文): 它没有做到, 很好地与新加坡口音和原因, 它没有做, 很好地与新加坡口音。
+
+Recognition (英语): (It did not do, well with the Singapore accent and the reason it didn't do, well with the singapore accent.)
+
+
+
+Will @ 11:30:50
+
+Translation (简体中文): 是因为我们不支持那种口音。我们没有这方面的数据。但我们是否建立了一个模型, 这可以追溯到你的问题, 我们在新加坡口音上建立了一个模型。
+
+Recognition (英语): (Is because we do not support that accent. We don't have data for that. But have we built a model this goes back to your question have we built a model all over the singapore accent.)
+
+
+
+Will @ 11:30:52
+
+Translation (简体中文): 这将会做得更好。
+
+Recognition (英语): (It would have done much better.)
+
+
+
+Will @ 11:30:57
+
+Translation (简体中文): 我只知道有一个问题出现在那里对不起。这是一个很长的问题。但。
+
+Recognition (英语): (I just know there was a question that came up there sorry. That was a long question. But.)
+
+
+
+Will @ 11:30:59
+
+Translation (简体中文): 你真棒。
+
+Recognition (英语): (You rock.)
+
+
+
+Dawn @ 11:31:20
+
+Recognition (简体中文): 可以截屏.
+
+
+
+Will @ 11:31:22
+
+Translation (简体中文): 我可以保存在这里, 我可能会做, 但你也可以, 如果你在手机上的浏览器。你不能保存没有可在手机上保存的选项。
+
+Recognition (英语): (I can save it here which I'll probably do but you can also if you're in the browser on the phone. You can't save there's no option to save on the phone.)
+
+
+
+Will @ 11:31:28
+
+Translation (简体中文): 但如果你在浏览器里, 如果你在上面有一个小轮子, 然后或者当你访问它的时候。
+
+Recognition (英语): (But if you're in a browser there is if you there's a little wheel at the top there and then or when you access it.)
+
+
+
+Will @ 11:31:32
+
+Translation (简体中文): 它会问你是否想说成绩单, 然后你就能保存了。
+
+Recognition (英语): (It will ask you if you want to say the transcripts and then you'll be able to save it.)
+
+
+
+Will @ 11:31:40
+
+Translation (简体中文): 如果你收到的是中文的, 你可以说是双语成绩单, 你会得到英语和汉语。
+
+Recognition (英语): (And if you're receiving it in a in Chinese you can say the bilingual transcripts, you'll get english and Chinese.)
+
+
+
+Will @ 11:31:51
+
+Translation (简体中文): 你能救他说的话吗？
+
+Recognition (英语): (Can you save what he said is it?)
+
+
+
+Will @ 11:32:04
+
+Translation (简体中文): 好。这是个有趣的问题。所以文字记录本身就会成为有用的模型, 只要它们是好的成绩单, 所以问题是这是一台机器。
+
+Recognition (英语): (Okay. That's an interesting question. So the transcripts themselves become useful models as long as they're good transcripts, so the problem is that this is a machine.)
+
+
+
+Will @ 11:32:10
+
+Translation (简体中文): 在实际训练机器之前, 您可能希望纠正这些错误, 因为否则您将对内容进行迭代。
+
+Recognition (英语): (You probably want to correct the errors before you actually train a machine on it because otherwise you're iterating on content.)
+
+
+
+Will @ 11:32:19
+
+Translation (简体中文): 由同一设备生成。这不是个好主意。但你能做的是, 如果你有纠正的成绩单。您可以保存这些文件并在模型中使用这些文件。
+
+Recognition (英语): (Generated by the same device. That's not a good idea. But what you can do is if you have corrected transcripts. You can save those and use those in a model.)
+
+
+
+G @ 11:32:20
+
+Recognition (简体中文): 测试：绝地求生大逃杀
+
+
+
+Will @ 11:32:29
+
+Translation (简体中文): 例如, 我谈到罗切斯特的大学, 他们有多年的这样的成绩单, 他们用这些记录来做模特。
+
+Recognition (英语): (So that University I talked about Rochester, for instance, they have years and years of transcripts like this they use those for their models.)
+
+
+
+Will @ 11:32:30
+
+Translation (简体中文): 绝对。
+
+Recognition (英语): (Absolutely.)
+
+
+
+Will @ 11:32:41
+
+Translation (简体中文): 所以你是它不在代码中。它基本上进入了模型。
+
+Recognition (英语): (So you are it's not in the code. It's basically goes into models.)
+
+
+
+Dawn @ 11:32:46
+
+Recognition (简体中文): 深度学习.
+
+
+
+Will @ 11:32:50
+
+Translation (简体中文): 您可以使用自定义服务将这些成绩单添加为文本数据, 然后进行适合文本的培训。
+
+Recognition (英语): (You can use the customization service add these transcripts as text data, and then train adapted to those to that text.)
+
+
+
+Will @ 11:32:57
+
+Translation (简体中文): 所以不是, 是有服务的。
+
+Recognition (英语): (So it's not, it's a there's a service.)
+
+
+
+ano @ 11:32:58
+
+Recognition (简体中文): 古文翻译测试
+记者提问长者狂，大新闻，彭定康，谈笑风生，舌战华莱士，妄言中央已钦定，拿衣服，图心破。
+衣锦还乡回二院，鸭嘴笔，坠痛苦，一颗赛艇，档案做得好，自古人生难预料，苟利国，岂避祸。
+
+
+
+Will @ 11:33:00
+
+Translation (简体中文): 他们把它拉起来会告诉你什么？我的意思是。
+
+Recognition (英语): (They pull it up will show you what? I mean.)
+
+
+
+我的名字有十五个字不信你数数看 @ 11:33:04
+
+Recognition (简体中文): 此非曹孟德之诗乎？
+
+
+
+Will @ 11:33:05
+
+Translation (简体中文): 这是这里的一个链接。所以这项服务就在这里。
+
+Recognition (英语): (It's one of the links on here. So this service right here.)
+
+
+
+Will @ 11:33:08
+
+Translation (简体中文): 是适应服务吗？
+
+Recognition (英语): (Is the adaptation service?)
+
+
+
+Will @ 11:33:13
+
+Translation (简体中文): 如果你进入这是一个门户, 你可以进入, 你可以建立一个自适应模型。
+
+Recognition (英语): (If you go in this is a portal you can go into and you can build an adaptive model.)
+
+
+
+Will @ 11:33:19
+
+Translation (简体中文): 使用文本数据或音频数据。所以你提供了文本和音频数据, 它将采取基本模型和适应。
+
+Recognition (英语): (Using text data or audio data. So you provided the text and audio data, it will take the base model and adapt.)
+
+
+
+G @ 11:33:23
+
+Recognition (简体中文): 水能载舟，亦可赛艇
+
+
+
+Dawn @ 11:33:25
+
+Recognition (简体中文): 这个终端可以知道使用者的姓名吗?
+
+
+
+Will @ 11:33:31
+
+Translation (简体中文): 确定。确实有代码, 你会使用代码来访问 api, 但你基本上是在构建一个语音识别的实例。
+
+Recognition (英语): (Sure. It's really there's code you would use code to access the API but you're basically building an instance of the speech recognition.)
+
+
+
+Will @ 11:33:40
+
+Translation (简体中文): 这是自定义的任何上下文, 您想要的自定义实例, 没有 api 调用它。您可以创建两个自定义实例。
+
+Recognition (英语): (That's customized whatever context you want that customized instance that hasn't API call it. You can make two that customize instance.)
+
+
+
+Will @ 11:33:49
+
+Translation (简体中文): 所以我有一个 api 调用来生成这个文本, 你会有一个 api 调用, 你会发送音频二你的模型。
+
+Recognition (英语): (So I'm there's an API called to generate this text, you would have an API call to you would send audio two your model.)
+
+
+
+Will @ 11:33:53
+
+Translation (简体中文): 它将通过 api 调用返回文本给您。
+
+Recognition (英语): (And it would return text back to you through the API call.)
+
+
+
+fjh @ 11:34:03
+
+Recognition (简体中文): 石室诗士施氏，嗜狮，誓食十狮。 施氏时时适市视狮。 十时，适十狮适市。 是时，适施氏适市。 施氏视是十狮，恃矢势，使是十狮逝世。 氏拾是十狮尸，适石室。 石室湿，氏使侍拭石室。 石室拭，氏始试食是十狮尸。 食时，始识是十狮尸，实十石狮尸。 试释是事。
+
+
+
+我的名字有十五个字不信你数数看 @ 11:34:14
+
+Recognition (简体中文): ...
+
+
+
+Mack Wang @ 11:34:17
+
+Recognition (简体中文): ENOUGH!
+
+
+
+Will @ 11:34:21
+
+Translation (简体中文): 这对语音识别来说确实是个问题, 我要说的是, 我们没有解决, 大多数人也没有解决, 但什么。
+
+Recognition (英语): (That's a real problem for speech recognition, and it's something I would say that we don't have solved and most people don't have solved, but what.)
+
+
+
+Will @ 11:34:32
+
+Translation (简体中文): 解决这个问题的那种蛮力的方法, 就是把这个词汇添加到英语模型中。所以, 如果有中国的术语, 比如中国的城市名称之类的东西。我只是把它们放在模型里。
+
+Recognition (英语): (The kind of the brute force way to solve this is just add that vocabulary into the English model. So if there are Chinese terms like Chinese city names and stuff like that. I just put them in the model.)
+
+
+
+Will @ 11:34:34
+
+Translation (简体中文): 我把它们加入进来。
+
+Recognition (英语): (I add them in.)
+
+
+
+Will @ 11:34:40
+
+Translation (简体中文): 更好的方法是有一个认识到话语的那部分的模型。
+
+Recognition (英语): (A better way would be have a model that recognizes the part of the utterance that is.)
+
+
+
+Will @ 11:34:49
+
+Translation (简体中文): 在英语和话语的部分。那是用普通话说的, 然后再换, 所以当你先说一种语言的时候, 它经常会排队告诉你。
+
+Recognition (英语): (In English and the part of the utterance. That's in Mandarin and then switch, so it would often line tell when you're speaking one language first.)
+
+
+
+Will @ 11:34:57
+
+Translation (简体中文): 另一个是人们换这样的语言是很自然的。对于语音识别系统来说, 这是很不自然的。
+
+Recognition (英语): (The other it's very natural for people to switch languages like that. It's very unnatural for a speech recognition system.)
+
+
+
+Will @ 11:35:03
+
+Translation (简体中文): 用目前的技术。但这种情况最终改变了, 会发生的情况是, 两种模式都会同时活跃。
+
+Recognition (英语): (With current technology. But that's changing ultimately what will happen is both models will be active in the same time.)
+
+
+
+Will @ 11:35:09
+
+Translation (简体中文): 它将选择输出, 这最适合你当时说的是什么语言。
+
+Recognition (英语): (It will choose the output, that's the most appropriate for what language it is that you're speaking at that moment.)
+
+
+
+Dawn @ 11:35:15
+
+Recognition (简体中文): 建模.
+
+
+
+我的名字有十五个字不信你数数看 @ 11:35:19
+
+Recognition (简体中文): 亚铁氰化钾
+
+
+
+Will @ 11:35:57
+
+Translation (简体中文): 是啊, 测试出来我可以告诉没有我的连接, 好吧, 我们的翻译会失去他们的工作。
+
+Recognition (英语): (Yeah, testing it out I can tell don't have my connection, okay, our interpreters going to lose their jobs.)
+
+
+
+Will @ 11:36:02
+
+Translation (简体中文): 很快。我不认为是这样, 我认为技术越来越好。
+
+Recognition (英语): (Anytime soon. I don't think that's the case, I think the technology keeps getting better and better.)
+
+
+
+Will @ 11:36:08
+
+Translation (简体中文): 问题是它仍然非常。
+
+Recognition (英语): (The problem is it's still very.)
+
+
+
+Will @ 11:36:16
+
+Translation (简体中文): 它缺乏缺乏世界知识的文化背景。
+
+Recognition (英语): (It lacks cultural context that lacks knowledge of the world.)
+
+
+
+Will @ 11:36:23
+
+Translation (简体中文): 它基本上是以语言为基础, 然后基于概率空间的映射是基于该语言权利的使用。
+
+Recognition (英语): (It's basically taking language and then a mapping based on probability space is on the use of that language right.)
+
+
+
+Will @ 11:36:31
+
+Translation (简体中文): 但你可以用语言说, 它不会在那里接受委员会的暗示或讽刺。
+
+Recognition (英语): (But you can say things in language that it won't pick up the committee innuendo in there or sarcasm.)
+
+
+
+Will @ 11:36:38
+
+Translation (简体中文): 有了这样的事情, 它就不会接一个翻译就会捡到。同样, 当它出了问题, 如果它去。
+
+Recognition (英语): (With things like this that it won't pick up an interpreter will pick that up. Likewise, when it goes wrong if it goes.)
+
+
+
+Will @ 11:36:44
+
+Translation (简体中文): 在我叫掉铁轨后, 铁轨就响了, 做了一些疯狂的个人去。不。
+
+Recognition (英语): (After what I call off the rails which just goes off and does something crazy personal go. No.)
+
+
+
+Will @ 11:36:51
+
+Translation (简体中文): 是的。我知道。他没有说他能说 a 什么, 然后解释其他的话。
+
+Recognition (英语): (Yeah. I know. He didn't say that what could he have said A and then interpret something else.)
+
+
+
+Will @ 11:37:00
+
+Translation (简体中文): 人们可以做这种机器还没有完全实现。他们真的不知道你在说什么, 他们只知道如何将它从一种语言映射到另一种语言。
+
+Recognition (英语): (People can do this machines aren't quite there yet. They don't really know what you're saying they just know how to map it from one language to another.)
+
+
+
+Will @ 11:37:04
+
+Translation (简体中文): 其他问题。
+
+Recognition (英语): (Other questions.)
+
+
+
+Will @ 11:37:06
+
+Translation (简体中文): 它会尝试, 好吗。
+
+Recognition (英语): (It's going to try that, okay.)
+
+
+
+Will @ 11:37:08
+
+Translation (简体中文): 好。
+
+Recognition (英语): (Okay.)
+
+
+
+陈思行 @ 11:37:18
+
+Translation (简体中文): 沒有,我帥滿建行召開哪些保留改革的中國高爾夫大13飛.
+
+Recognition (繁体中文): (沒有,我帥滿建行召開哪些保留改革的中國高爾夫大13飛.)
+
+
+
+Will @ 11:37:40
+
+Translation (简体中文): 为什么没事？
+
+Recognition (英语): (Why is it alright?)
+
+
+
+LIHAOJIN @ 11:37:58
+
+Recognition (简体中文): 科大讯飞
+
+
+
+Will @ 11:38:04
+
+Translation (简体中文): 我不知道, 这个家伙是什么, 你能说公司有那个名字的英文版本吗？
+
+Recognition (英语): (What's the guy, I don't know, can you say that the company is there an English version of that name.)
+
+
+
+Dawn @ 11:38:23
+
+Recognition (简体中文): 这个软件可以用来代替同声传译的工作吗?
+
+
+
+LIHAOJIN @ 11:38:53
+
+Recognition (简体中文): iflytek
+
+
+
+Dawn @ 11:39:05
+
+Recognition (简体中文): 抽签.
+
+
+
+李嘉骏 @ 11:39:07
+
+Recognition (简体中文): 怎样翻译我们中文所说的文言亦或是英文的俚语，怎样去对待不同文化的翻译盲区
+
+
+
+Will @ 11:39:10
+
+Translation (简体中文): 是的。
+
+Recognition (英语): (Yeah.)
+
+
+
+G @ 11:39:24
+
+Recognition (简体中文): 欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧 拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉 欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧 拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉
+
+
+
+Dawn @ 11:39:29
+
+Recognition (简体中文): 而且各个语系的语法也不一样.
+
+
+
+睿智的P社玩家 @ 11:39:35
+
+Recognition (简体中文): 克鲁斯卡尔算法
+
+
+
+我的名字有十五个字不信你数数看 @ 11:39:37
+
+Recognition (简体中文): 红红火火恍恍惚惚
+
+
+
+ano @ 11:39:38
+
+Recognition (简体中文): 人才
+
+
+
+睿智的P社玩家 @ 11:39:40
+
+Recognition (简体中文): AC自动机
+
+
+
+Dawn @ 11:39:43
+
+Recognition (简体中文): 欧拉函数吗?
+
+
+
+睿智的P社玩家 @ 11:39:47
+
+Recognition (简体中文): 欧陆风云4
+
+
+
+Thirra @ 11:39:48
+
+Recognition (简体中文): 不大不大木大
+
+
+

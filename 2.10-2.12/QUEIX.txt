@@ -1,0 +1,1214 @@
+﻿==================================
+
+Transcript QUEIX
+
+
+
+Correlation ID = cd04eb5e-cde1-015f-8694-3825ecb72482
+
+
+
+Date
+
+Tue Feb 12 2019 11:17:43 GMT-0800 (Pacific Standard Time)
+
+
+
+==================================
+
+Conversation QUEIX
+
+
+
+Will @ 11:17:44
+
+Recognition (English): So what I prefer is what I'm doing on this phone. So I speak some German when I prefer.
+
+
+
+RtheT10 @ 11:17:50
+
+Recognition (English): Okay, an.
+
+
+
+Dawn @ 11:17:52
+
+Recognition (English): Socially.
+
+
+
+Will @ 11:17:53
+
+Recognition (English): Is I will have it in the language. That's being spoken. And in my language. So I get both and what I like about that.
+
+
+
+Will @ 11:18:01
+
+Recognition (English): If I'm going to a lecture someone speaking German, let's say, I don't their words that i don't know, in German all go.
+
+
+
+Will @ 11:18:06
+
+Recognition (English): Yeah, that's what he said, it's helpful to me because I learn the language two when someone says that word.
+
+
+
+Will @ 11:18:12
+
+Recognition (English): No, I can say what is that word. That's what that word means it's very useful in that context too.
+
+
+
+Will @ 11:18:13
+
+Recognition (English): For language learning.
+
+
+
+Will @ 11:18:17
+
+Recognition (English): I hope that answer your question. Okay, other questions.
+
+
+
+Will @ 11:18:26
+
+Recognition (English): Where's the microphone?
+
+
+
+Will @ 11:18:28
+
+Recognition (English): Yeah.
+
+
+
+Dawn @ 11:18:36
+
+Translation (English): My mom.
+
+Recognition (Chinese Simplified): (我妈.)
+
+
+
+Will @ 11:18:38
+
+Recognition (English): Yeah.
+
+
+
+Will @ 11:18:40
+
+Recognition (English): All right.
+
+
+
+Will @ 11:18:46
+
+Recognition (English): How to make sure that?
+
+
+
+Will @ 11:18:52
+
+Recognition (English): It's picking up here I go ahead.
+
+
+
+Dawn @ 11:19:11
+
+Translation (English): What he meant was how to avoid critical mistakes.
+
+Recognition (Chinese Simplified): (他的意思是如何避免关键错误.)
+
+
+
+Will @ 11:19:34
+
+Recognition (English): I mean by this is a mistake swear there's a term that's really important in the conversation, how do we make sure that doesn't get missed.
+
+
+
+Will @ 11:19:41
+
+Recognition (English): A lot of times the language models help with this. Of course. So the more context that someone gives when he's talking.
+
+
+
+Will @ 11:19:48
+
+Recognition (English): Often times that context will help filling the gaps and say this was the intended word the customization helps here too.
+
+
+
+nnn @ 11:19:57
+
+Translation (English): At first sent to advance to send after the solution of the netbook netbook.
+
+Recognition (Chinese Simplified): (一开始发过来推进来发送完后解决上网本netbook.)
+
+
+
+Will @ 11:19:58
+
+Recognition (English): This is one of the reasons that customization is used so much in University setting is because when I'm teaching a class on biology. That's somewhat predictable what the terminology is the time.
+
+
+
+nnn @ 11:20:04
+
+Translation (English): Ask you.
+
+Recognition (Chinese Simplified): (问你.)
+
+
+
+Will @ 11:20:04
+
+Recognition (English): Talk about and it can rely on that language model when it's scoring the output from the speech recognition.
+
+
+
+Will @ 11:20:10
+
+Recognition (English): Say this was the intended output even though I thought I heard something different. So these critical terms.
+
+
+
+nnn @ 11:20:14
+
+Translation (English): It's in.
+
+Recognition (Chinese Simplified): (就是在.)
+
+
+
+Will @ 11:20:20
+
+Recognition (English): Oftentimes get resolved correctly, not just in the speech recognition with his custom acoustic model. That's built but also in the scoring.
+
+
+
+Will @ 11:20:23
+
+Recognition (English): Against the language model.
+
+
+
+Will @ 11:20:28
+
+Recognition (English): And there was another question. I didn't answer the second question. Sorry.
+
+
+
+G @ 11:20:35
+
+Translation (English): The accent doesn't look like a local.
+
+Recognition (Chinese Simplified): (口音不像本地人)
+
+
+
+Dawn @ 11:20:41
+
+Translation (English): How to avoid the hospital's ambiguity.
+
+Recognition (Chinese Simplified): (如何避免医院的二义性.)
+
+
+
+Will @ 11:20:56
+
+Recognition (English): The ambiguity, but ambiguity is big problem ambiguities a problem in a monolingual context.
+
+
+
+Will @ 11:21:00
+
+Recognition (English): So you're going to see it get rid of something I got rid of some of the disfluencies there.
+
+
+
+Will @ 11:21:12
+
+Recognition (English): The in a monolingual context is king context matters more than anything again. It's a language model.
+
+
+
+Will @ 11:21:22
+
+Recognition (English): That helps it differentiate what term was intended to be said, if you say a word in isolation. It doesn't have any context to be able to rely on it will just come up with the most.
+
+
+
+Will @ 11:21:33
+
+Recognition (English): Common word that sounds like that. But if you provided a large context it will do much better. Now in the bilingual setting or multilingual setting it becomes harder.
+
+
+
+Will @ 11:21:43
+
+Recognition (English): There are language models. There also. So if we get the right word in the source language if so if we don't get the right word.
+
+
+
+Will @ 11:21:52
+
+Recognition (English): All hope is lost will end up getting the wrong translation. But if we get the right word with appropriate context around that word.
+
+
+
+Will @ 11:22:02
+
+Recognition (English): It's past the translation system will use that context to reinforce the output that should be output again.
+
+
+
+Will @ 11:22:08
+
+Recognition (English): Throughout language modeling a approach, but also within the translation model as well. Does that make sense?
+
+
+
+Shaik @ 11:22:09
+
+Translation (English): Microsoft 6666
+
+Recognition (Chinese Simplified): (微软6666)
+
+
+
+Dawn @ 11:22:10
+
+Translation (English): Usage probability?
+
+Recognition (Chinese Simplified): (使用概率吗?)
+
+
+
+Will @ 11:22:19
+
+Recognition (English): It's a very complex problem, but it tends to do pretty well, and I think the critical thing here is context the more context to give it.
+
+
+
+Will @ 11:22:21
+
+Recognition (English): The better it will do.
+
+
+
+Will @ 11:22:24
+
+Recognition (English): Okay.
+
+
+
+Chenxuan Ji @ 11:22:27
+
+Translation (English): You can use tape.
+
+Recognition (Chinese Simplified): (可以用胶带.)
+
+
+
+G @ 11:22:51
+
+Translation (English): .
+
+Recognition (Chinese Simplified): (.)
+
+
+
+ano @ 11:23:04
+
+Translation (English): Microsoft Dafa Good
+
+Recognition (Chinese Simplified): (微软大法好)
+
+
+
+Will @ 11:23:05
+
+Recognition (English): Rate will vary a lot depending on the accent of the individual and all of these other factors.
+
+
+
+Will @ 11:23:12
+
+Recognition (English): So I have it kind of a standard American accent and the models do really? Well on the standard american accent.
+
+
+
+Will @ 11:23:20
+
+Recognition (English): The man someone who has a Chinese accent is using this to someone who speaks Mandarin regularly it won't do as well for that person.
+
+
+
+Shaik @ 11:23:22
+
+Translation (English): Microsoft Qiang
+
+Recognition (Chinese Simplified): (微软强诶)
+
+
+
+LXX @ 11:23:32
+
+Translation (English): In the daily work, there will be a lot of seminars or minutes work 1, can be based on the theme of the meeting in advance to import the relevant term package? This will make it more effective to use Microsoft Translator as a record 2. If the main speaker has a Chinese dialect accent, can he make a machine study of the recordings and records of his previous speeches?
+
+Recognition (Chinese Simplified): (日常工作中，会涉及很多座谈会或会议记录工作 1、是否可以根据会议主题提前导入相关术语包？这样利用Microsoft translator做记录时将更加有效 2、如果主要的演讲者有中文方言口音，是否可以将他之前的演讲录音和记录进行机器学习？)
+
+
+
+Will @ 11:23:34
+
+Recognition (English): Except it does pretty well because we have content in the models of vendor and speakers. So people who speak Mandarin natively speak English that data is then goes into our models. So the improvement of the models.
+
+
+
+Will @ 11:23:41
+
+Recognition (English): Is the more data we can have with a variety of speakers the better will do on those speakers?
+
+
+
+Will @ 11:23:49
+
+Recognition (English): So it actually does pretty well with someone who has a Mandarin accent it won't do as well as someone who has a Cantonese accent because the accents different.
+
+
+
+Will @ 11:23:55
+
+Recognition (English): And we don't have a lot of content for Cantonese Speakers Speak English in our model. I've seen this actually play out.
+
+
+
+Will @ 11:24:01
+
+Recognition (English): Someone who's from City University of Hong Kong, for instance has a strong Cantonese accent. It doesn't do, well for him.
+
+
+
+Will @ 11:24:07
+
+Recognition (English): Someone from Qing while University who has a strong Mandarin accent it actually does pretty well for him.
+
+
+
+Will @ 11:24:22
+
+Recognition (English): So the baseballs are improved, but if you have someone who speaks with an accent that it just doesn't recognize.
+
+
+
+Will @ 11:24:29
+
+Recognition (English): You can customize to that person like, we did with the deaf voice. It's the same process providing samples of that person speaking with transcripts.
+
+
+
+Will @ 11:24:37
+
+Recognition (English): It says it will then adapt to that person's voice and we've done that successfully for speakers have very pronounced accent.
+
+
+
+Dawn @ 11:24:40
+
+Translation (English): There should be applause here.
+
+Recognition (Chinese Simplified): (此处应该有掌声.)
+
+
+
+Will @ 11:24:45
+
+Recognition (English): Sorry, so many questions.
+
+
+
+ano @ 11:24:53
+
+Translation (English): Acclamation
+
+Recognition (Chinese Simplified): (*鼓掌*)
+
+
+
+Will @ 11:25:07
+
+Recognition (English): In the is a different technology. It's still going to use still use neural networks. Probably to resolve the signal.
+
+
+
+Will @ 11:25:13
+
+Recognition (English): But the features that are extracted in this signal, that's actually being provided is not acoustic providing in a video signal.
+
+
+
+Will @ 11:25:18
+
+Recognition (English): So you have to do some sort of feature extraction from that video signal to be able to interpret that.
+
+
+
+Will @ 11:25:25
+
+Recognition (English): We're not currently working on that. But there is work being done in that space. I think it's a solvable problem.
+
+
+
+Will @ 11:25:35
+
+Recognition (English): Now because the technology is there. It's caught up but the prog real problem with sign language interpretation is the amount of data.
+
+
+
+ALICE @ 11:25:39
+
+Translation (English): Word test: Violence, simulation, dichotomy, graph theory, dynamic planning, tree-shaped DP, shape-like DP, contour DP, line-segment tree, Balance tree,
+
+Recognition (Chinese Simplified): (单词测试：暴力，模拟，二分，图论，动态规划，树形DP，状压DP，轮廓线DP，线段树，平衡树，)
+
+
+
+Will @ 11:25:44
+
+Recognition (English): It's available you need to have people signing video signal with transcripts. So the second problem is the transcripts.
+
+
+
+Will @ 11:25:51
+
+Recognition (English): For most sign languages in the world Chinese Sign Language American sign language what have you there are not consistent.
+
+
+
+Will @ 11:26:03
+
+Recognition (English): Transcription systems for those languages. So it's actually a mistake, I feel to use English for American sign language or do use Chinese for Chinese sign language.
+
+
+
+Will @ 11:26:10
+
+Recognition (English): Because those languages are different the word orders are different vocabularies are different the way you say things are different.
+
+
+
+Will @ 11:26:18
+
+Recognition (English): So you're basically conflating both at recognition task with a translation task. So there are two problems that have to be solved we have to get enough data.
+
+
+
+Will @ 11:26:24
+
+Recognition (English): And we have to have the right transcription system for the language for this to work, and that's the two blocking.
+
+
+
+Will @ 11:26:30
+
+Recognition (English): Doctors with sign language interpretation currently, I'll give you one example of why you need to have a separate.
+
+
+
+Will @ 11:26:38
+
+Recognition (English): Transcription system for sign language a lot of it has to do with the way things are expressed, for instance.
+
+
+
+Will @ 11:26:51
+
+Recognition (English): Pronouns in a in English he, it or you are we know knee and pa in these terms.
+
+
+
+Will @ 11:27:00
+
+Recognition (English): Mandarin they don't have terms like that in sign language. So if I want to actually say a person I will say the person's name.
+
+
+
+Will @ 11:27:06
+
+Recognition (English): Maybe I say my name in science or my name and then I'll point.
+
+
+
+Will @ 11:27:13
+
+Recognition (English): That I'm pointing to a place that becomes the pronoun for me or that particular person. I'm going to talk about you.
+
+
+
+Will @ 11:27:20
+
+Recognition (English): And so then I'll point that person will say, so whenever, he said something.
+
+
+
+Shaik @ 11:27:20
+
+Translation (English): This software is going to be more and more perfect.
+
+Recognition (Chinese Simplified): (这个软件会越来越完善的)
+
+
+
+Will @ 11:27:25
+
+Recognition (English): So I just said, he talked to him. Do you see?
+
+
+
+Will @ 11:27:35
+
+Recognition (English): In. So those become the protons, how do we resolve those? We can't assign he or she to me it doesn't work that because you could have 10.
+
+
+
+Will @ 11:27:43
+
+Recognition (English): Pronouns doesn't work and make it a language you have to have a transcription system that can represent just that example.
+
+
+
+Will @ 11:27:44
+
+Recognition (English): There's more examples of that.
+
+
+
+Thirra @ 11:27:54
+
+Translation (English): Using this translator meeting exchange seems a little impolite, I mean, no eyes and body language communication, communication between the two sides can not know the actual feelings of the other side, I would like to ask, have you considered the function of joining face-to-eye video communication, if there is, why not join?
+
+Recognition (Chinese Simplified): (使用这个translator的会议交流似乎有一点不礼貌，我的意思是，没有眼神以及肢体语言的交流，交流的双方不能知道对方的实际情感，我想问，你们有没有考虑过加入面对面视频交流的功能，如果有，为什么不加入？)
+
+
+
+ano @ 11:27:58
+
+Translation (English): Test: The life and death of the country of Gou
+
+Recognition (Chinese Simplified): (test: 苟利国家生死以)
+
+
+
+G @ 11:28:12
+
+Translation (English): -1s
+
+Recognition (Chinese Simplified): (-1s)
+
+
+
+Mack Wang @ 11:28:21
+
+Recognition (English): 岂因祸福避趋之
+
+
+
+Shaik @ 11:28:42
+
+Translation (English): Learning to learn, not to say the same.
+
+Recognition (Chinese Simplified): (学而时习之，不亦说乎)
+
+
+
+oof @ 11:28:44
+
+Translation (English): Hideyoshi, is that you?
+
+Recognition (Chinese Simplified): (秀儿是你吗)
+
+
+
+Dawn @ 11:28:46
+
+Translation (English): No amount of data can be very large.
+
+Recognition (Chinese Simplified): (没有数据量会很大.)
+
+
+
+G @ 11:28:50
+
+Translation (English): National bullets are unsaleable.
+
+Recognition (Chinese Simplified): (国家子弹滞销)
+
+
+
+Will @ 11:29:14
+
+Recognition (English): Gen. And so there is actually work being done in multi model translation it ties back a little bit to the sign language question.
+
+
+
+Will @ 11:29:20
+
+Recognition (English): Because actually it turns out when we talk to someone a lot of times their cues in the body language that tell us that.
+
+
+
+Will @ 11:29:27
+
+Recognition (English): That help us to determine what's going to be said, so a good example of this is from psycho linguistic research.
+
+
+
+Will @ 11:29:33
+
+Recognition (English): A good example is I'm trying to think of the example, I just talked to us.
+
+
+
+Shaik @ 11:29:40
+
+Translation (English): Dance the gully of the Jiao, sobbing the Shang of the boat
+
+Recognition (Chinese Simplified): (舞幽壑之潜蛟，泣孤舟之嫠妇)
+
+
+
+Will @ 11:29:43
+
+Recognition (English): Cycle language or so a lot of times in the body language that we have that we say, it's not just like reading the lips can help.
+
+
+
+Will @ 11:29:52
+
+Recognition (English): But also the languages oftentimes, when we're going to say something that's a new word will have a certain body language like, this is a word that you won't know.
+
+
+
+Will @ 11:29:59
+
+Recognition (English): It will express that through our body language. If we use those as features in the model to say there's a word that's unusual.
+
+
+
+Will @ 11:30:00
+
+Recognition (English): It's coming.
+
+
+
+Will @ 11:30:06
+
+Recognition (English): So we don't want to look at what our normal language model would say we want to actually then look at more obscured.
+
+
+
+Will @ 11:30:12
+
+Recognition (English): Terms or whatever, then that could help inform the model. So, yes, we can use that kind of information.
+
+
+
+Will @ 11:30:16
+
+Recognition (English): That's still very much a nascent research area.
+
+
+
+Will @ 11:30:50
+
+Recognition (English): Recognize adding that content in the model helps improve the quality of the model, but you can also add.
+
+
+
+Will @ 11:30:57
+
+Recognition (English): After that particular individual. So I'll give you an example, I was in a in Singapore last year.
+
+
+
+Will @ 11:30:58
+
+Recognition (English): At a conference.
+
+
+
+ALICE @ 11:31:00
+
+Translation (English): Word test: Number theory, congruence, modulus, Pei theorem, Chinese residual theorem, Euclidean calculation, Komodo inversion, fast Fourier transform, fast number theory transformation, Fast Walsh transform
+
+Recognition (Chinese Simplified): (单词测试：数论，同余，取模，裴蜀定理，中国剩余定理，欧几里得算，莫比乌斯反演，快速傅里叶变换，快速数论变换，快速沃尔什变换)
+
+
+
+Will @ 11:31:04
+
+Recognition (English): It did not do, well with the Singapore accent and the reason it didn't do, well with the singapore accent.
+
+
+
+Will @ 11:31:14
+
+Recognition (English): Is because we do not support that accent. We don't have data for that. But have we built a model this goes back to your question have we built a model all over the singapore accent.
+
+
+
+Will @ 11:31:16
+
+Recognition (English): It would have done much better.
+
+
+
+Will @ 11:31:21
+
+Recognition (English): I just know there was a question that came up there sorry. That was a long question. But.
+
+
+
+Will @ 11:31:24
+
+Recognition (English): You rock.
+
+
+
+Dawn @ 11:31:44
+
+Translation (English): Screenshots can be truncated.
+
+Recognition (Chinese Simplified): (可以截屏.)
+
+
+
+Will @ 11:31:47
+
+Recognition (English): I can save it here which I'll probably do but you can also if you're in the browser on the phone. You can't save there's no option to save on the phone.
+
+
+
+Will @ 11:31:52
+
+Recognition (English): But if you're in a browser there is if you there's a little wheel at the top there and then or when you access it.
+
+
+
+Will @ 11:31:56
+
+Recognition (English): It will ask you if you want to say the transcripts and then you'll be able to save it.
+
+
+
+Will @ 11:32:04
+
+Recognition (English): And if you're receiving it in a in Chinese you can say the bilingual transcripts, you'll get english and Chinese.
+
+
+
+Will @ 11:32:15
+
+Recognition (English): Can you save what he said is it?
+
+
+
+Will @ 11:32:28
+
+Recognition (English): Okay. That's an interesting question. So the transcripts themselves become useful models as long as they're good transcripts, so the problem is that this is a machine.
+
+
+
+Will @ 11:32:34
+
+Recognition (English): You probably want to correct the errors before you actually train a machine on it because otherwise you're iterating on content.
+
+
+
+Will @ 11:32:44
+
+Recognition (English): Generated by the same device. That's not a good idea. But what you can do is if you have corrected transcripts. You can save those and use those in a model.
+
+
+
+G @ 11:32:44
+
+Translation (English): Test: The Jedi survive a big escape kill
+
+Recognition (Chinese Simplified): (测试：绝地求生大逃杀)
+
+
+
+Will @ 11:32:53
+
+Recognition (English): So that University I talked about Rochester, for instance, they have years and years of transcripts like this they use those for their models.
+
+
+
+Will @ 11:32:54
+
+Recognition (English): Absolutely.
+
+
+
+Will @ 11:33:05
+
+Recognition (English): So you are it's not in the code. It's basically goes into models.
+
+
+
+Dawn @ 11:33:10
+
+Translation (English): Deep learning.
+
+Recognition (Chinese Simplified): (深度学习.)
+
+
+
+Will @ 11:33:14
+
+Recognition (English): You can use the customization service add these transcripts as text data, and then train adapted to those to that text.
+
+
+
+Will @ 11:33:21
+
+Recognition (English): So it's not, it's a there's a service.
+
+
+
+ano @ 11:33:22
+
+Translation (English): Ancient literary translation test reporter Questions Elder madness, big news, Patten, laughing, talkback Wallace, paranoid Central has been chin, take clothes, figure heart broken. Homecoming back to the second courtyard, duck mouth pen, fall pain, a rowing, file done well, since ancient life difficult to predict, gou, not to avoid disaster.
+
+Recognition (Chinese Simplified): (古文翻译测试
+记者提问长者狂，大新闻，彭定康，谈笑风生，舌战华莱士，妄言中央已钦定，拿衣服，图心破。
+衣锦还乡回二院，鸭嘴笔，坠痛苦，一颗赛艇，档案做得好，自古人生难预料，苟利国，岂避祸。)
+
+
+
+Will @ 11:33:24
+
+Recognition (English): They pull it up will show you what? I mean.
+
+
+
+我的名字有十五个字不信你数数看 @ 11:33:29
+
+Translation (English): This non-Cao Mengde poem?
+
+Recognition (Chinese Simplified): (此非曹孟德之诗乎？)
+
+
+
+Will @ 11:33:29
+
+Recognition (English): It's one of the links on here. So this service right here.
+
+
+
+Will @ 11:33:32
+
+Recognition (English): Is the adaptation service?
+
+
+
+Will @ 11:33:37
+
+Recognition (English): If you go in this is a portal you can go into and you can build an adaptive model.
+
+
+
+Will @ 11:33:43
+
+Recognition (English): Using text data or audio data. So you provided the text and audio data, it will take the base model and adapt.
+
+
+
+G @ 11:33:47
+
+Translation (English): Water can carry boats, but also rowing
+
+Recognition (Chinese Simplified): (水能载舟，亦可赛艇)
+
+
+
+Dawn @ 11:33:49
+
+Translation (English): Can this terminal know the name of the user?
+
+Recognition (Chinese Simplified): (这个终端可以知道使用者的姓名吗?)
+
+
+
+Will @ 11:33:56
+
+Recognition (English): Sure. It's really there's code you would use code to access the API but you're basically building an instance of the speech recognition.
+
+
+
+Will @ 11:34:04
+
+Recognition (English): That's customized whatever context you want that customized instance that hasn't API call it. You can make two that customize instance.
+
+
+
+Will @ 11:34:14
+
+Recognition (English): So I'm there's an API called to generate this text, you would have an API call to you would send audio two your model.
+
+
+
+Will @ 11:34:17
+
+Recognition (English): And it would return text back to you through the API call.
+
+
+
+fjh @ 11:34:27
+
+Translation (English): Shi Si, the stone chamber, the lion, vows to eat ten lions. Shi is always suitable for the City of Vision Lion. 10 o'clock, suitable for the city of ten Lions. Yes, it is appropriate to apply to the city. Shi's vision is ten lions, the bully, so that is ten lions died. Pick is ten lion corpse, suitable stone room. The stone chamber is wet, and the stone Chamber is made by the waiter. Stone Chamber Wipe, the beginning of the test food is ten lion corpse. When eating, the beginning of the knowledge is ten Lions corpse, the real ten stone lion corpse. Trial release is a matter.
+
+Recognition (Chinese Simplified): (石室诗士施氏，嗜狮，誓食十狮。施氏时时适市视狮。十时，适十狮适市。是时，适施氏适市。施氏视是十狮，恃矢势，使是十狮逝世。氏拾是十狮尸，适石室。石室湿，氏使侍拭石室。石室拭，氏始试食是十狮尸。食时，始识是十狮尸，实十石狮尸。试释是事。)
+
+
+
+我的名字有十五个字不信你数数看 @ 11:34:39
+
+Translation (English): ...
+
+Recognition (Chinese Simplified): (...)
+
+
+
+Mack Wang @ 11:34:41
+
+Translation (English): enough!
+
+Recognition (Chinese Simplified): (ENOUGH!)
+
+
+
+Will @ 11:34:45
+
+Recognition (English): That's a real problem for speech recognition, and it's something I would say that we don't have solved and most people don't have solved, but what.
+
+
+
+Will @ 11:34:57
+
+Recognition (English): The kind of the brute force way to solve this is just add that vocabulary into the English model. So if there are Chinese terms like Chinese city names and stuff like that. I just put them in the model.
+
+
+
+Will @ 11:34:58
+
+Recognition (English): I add them in.
+
+
+
+Will @ 11:35:05
+
+Recognition (English): A better way would be have a model that recognizes the part of the utterance that is.
+
+
+
+Will @ 11:35:13
+
+Recognition (English): In English and the part of the utterance. That's in Mandarin and then switch, so it would often line tell when you're speaking one language first.
+
+
+
+Will @ 11:35:21
+
+Recognition (English): The other it's very natural for people to switch languages like that. It's very unnatural for a speech recognition system.
+
+
+
+Will @ 11:35:27
+
+Recognition (English): With current technology. But that's changing ultimately what will happen is both models will be active in the same time.
+
+
+
+Will @ 11:35:34
+
+Recognition (English): It will choose the output, that's the most appropriate for what language it is that you're speaking at that moment.
+
+
+
+Dawn @ 11:35:39
+
+Translation (English): Modeling.
+
+Recognition (Chinese Simplified): (建模.)
+
+
+
+我的名字有十五个字不信你数数看 @ 11:35:43
+
+Translation (English): Ferrous cyanide
+
+Recognition (Chinese Simplified): (亚铁氰化钾)
+
+
+
+Will @ 11:36:21
+
+Recognition (English): Yeah, testing it out I can tell don't have my connection, okay, our interpreters going to lose their jobs.
+
+
+
+Will @ 11:36:27
+
+Recognition (English): Anytime soon. I don't think that's the case, I think the technology keeps getting better and better.
+
+
+
+Will @ 11:36:32
+
+Recognition (English): The problem is it's still very.
+
+
+
+Will @ 11:36:40
+
+Recognition (English): It lacks cultural context that lacks knowledge of the world.
+
+
+
+Will @ 11:36:48
+
+Recognition (English): It's basically taking language and then a mapping based on probability space is on the use of that language right.
+
+
+
+Will @ 11:36:55
+
+Recognition (English): But you can say things in language that it won't pick up the committee innuendo in there or sarcasm.
+
+
+
+Will @ 11:37:02
+
+Recognition (English): With things like this that it won't pick up an interpreter will pick that up. Likewise, when it goes wrong if it goes.
+
+
+
+Will @ 11:37:08
+
+Recognition (English): After what I call off the rails which just goes off and does something crazy personal go. No.
+
+
+
+Will @ 11:37:15
+
+Recognition (English): Yeah. I know. He didn't say that what could he have said A and then interpret something else.
+
+
+
+Will @ 11:37:24
+
+Recognition (English): People can do this machines aren't quite there yet. They don't really know what you're saying they just know how to map it from one language to another.
+
+
+
+Will @ 11:37:28
+
+Recognition (English): Other questions.
+
+
+
+Will @ 11:37:31
+
+Recognition (English): It's going to try that, okay.
+
+
+
+Will @ 11:37:33
+
+Recognition (English): Okay.
+
+
+
+陈思行 @ 11:37:43
+
+Translation (English): No, I'm so handsome. What reserved reform of the Chinese golf was called by CCB to fly 13.
+
+Recognition (Chinese Traditional): (沒有,我帥滿建行召開哪些保留改革的中國高爾夫大13飛.)
+
+
+
+Will @ 11:38:04
+
+Recognition (English): Why is it alright?
+
+
+
+LIHAOJIN @ 11:38:22
+
+Translation (English): Hkust News Fei
+
+Recognition (Chinese Simplified): (科大讯飞)
+
+
+
+Will @ 11:38:29
+
+Recognition (English): What's the guy, I don't know, can you say that the company is there an English version of that name.
+
+
+
+Dawn @ 11:38:47
+
+Translation (English): Can this software be used in place of simultaneous interpretation?
+
+Recognition (Chinese Simplified): (这个软件可以用来代替同声传译的工作吗?)
+
+
+
+LIHAOJIN @ 11:39:17
+
+Translation (English): Iflytek
+
+Recognition (Chinese Simplified): (iflytek)
+
+
+
+Dawn @ 11:39:29
+
+Translation (English): Draw.
+
+Recognition (Chinese Simplified): (抽签.)
+
+
+
+李嘉骏 @ 11:39:31
+
+Translation (English): How to translate our Chinese words or English slang, how to deal with the translation of different cultures blind spots
+
+Recognition (Chinese Simplified): (怎样翻译我们中文所说的文言亦或是英文的俚语，怎样去对待不同文化的翻译盲区)
+
+
+
+Will @ 11:39:35
+
+Recognition (English): Yeah.
+
+
+
+G @ 11:39:48
+
+Translation (English): Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora 欧拉欧拉欧拉欧拉欧拉欧拉欧拉-欧拉欧拉欧拉欧拉欧拉欧拉欧拉 欧拉欧拉欧拉欧拉 Europe Raola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora 欧拉欧拉欧拉欧拉欧拉欧拉欧拉 欧拉欧拉欧拉欧拉欧拉欧拉欧拉, 欧拉欧拉欧拉欧拉欧拉 Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora 欧拉欧拉欧拉欧拉欧拉欧拉欧拉-欧拉欧拉欧拉欧拉欧拉欧拉欧拉 欧拉欧拉欧拉欧拉 Europe La Houra Oraola Oraora Oraola Oraora Oraola Oraora Oraola Oraora Oraola Orao Oraola
+
+Recognition (Chinese Simplified): (欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉)
+
+
+

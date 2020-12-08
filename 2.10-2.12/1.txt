@@ -1,0 +1,27 @@
+recycle:
+metal
+soft plastic
+soft paper
+glass
+
+nonrecycle:
+hard plastic
+hard paper
+ashes
+
+metal: 
+pin: small size/low height
+can: big size/high height
+
+glass:
+transparent: low height
+
+plastic
+transparent:/high to low
+non-transparent
+hard
+soft
+
+paper
+hard
+soft

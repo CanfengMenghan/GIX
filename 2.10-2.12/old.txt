@@ -1,0 +1,15 @@
+red-green light
+two cars automatic drive
+
+normal: 
+red light stop: delay A stop; delay B stop
+new: 
+red light on: simutaneously stop
+
+show the elpased time and remaining time
+
+show the light on the screen of raspberry pi
+
+materials:
+stepper *3
+infrared receiver *2
